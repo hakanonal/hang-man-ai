@@ -17,4 +17,17 @@ This document is my journal about this project. I am writing all my thoughts tri
 - I need to put these thoughts to in order and convert into cards. [Here](https://github.com/hakanonal/hang-man-ai/projects/1) it is.
 
 - I am looking how can I find the list of all words? There many applications but I need the raw data. Here is the [card](https://github.com/hakanonal/hang-man-ai/projects/1#card-65714026)
-  -
+
+  - I have wondered how many turkish words. A little bit google search...
+  - I have bumped into [this](https://www.kelimetre.com/kelime-listeleri) page. However we need a crowler to extract all words from this web site.
+    - Well I have listed all words by thier letter numbers from [here](https://www.kelimetre.com/harf-sayisina-gore-kelimeler). I have summed up all words and it is 60675. Well I am not conviinced yet there should much more words. If it was easy to extract all words I would have start with it but I will search more.
+  - well what about [this](https://tr.wiktionary.org/wiki/Vikisözlük:Sözcük_listesi) one.
+    - this one also needs a crawler but at least it is only 2 levels.
+  - Ok [this](https://github.com/CanNuhlar/Turkce-Kelime-Listesi) one is easier to start with. I have downloaded posted text it is only 870kb. which I think it won't be a problem in terms of memory. So research has completed.
+
+- Let's begin with game environment.
+  - I need python right? Why not...
+  - Of course I have forgot the pyenv again. Need to remember...
+    - I am inistalling 3.9.0 via pyenv. will also create virtualenv. pofff it gave error. It is so lame that my first moves ends up with error. I do not want to stuck with this error so I am going to try older versions.
+      - error again. maybe I should upgrade pyenv. Yihuuu! it worked. Moreover I have mananged to install latest version 3.9.6
+    - viirtualenv hand-man-ai is created.
