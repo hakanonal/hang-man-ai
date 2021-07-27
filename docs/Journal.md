@@ -31,8 +31,8 @@ This document is my journal about this project. I am writing all my thoughts tri
     - I am inistalling 3.9.0 via pyenv. will also create virtualenv. pofff it gave error. It is so lame that my first moves ends up with error. I do not want to stuck with this error so I am going to try older versions.
       - error again. maybe I should upgrade pyenv. Yihuuu! it worked. Moreover I have mananged to install latest version 3.9.6
     - viirtualenv hand-man-ai is created.
-  - Next start to code. I have forgat my experiiment notebook. I will add the link here. However
-    - my viirtual environment does not work properlly. even though I have activated the environment the python version does not points to the version it is suppose to.
+  - Next start to code. I have forgat my experiiment notebook. I will add the link [here](../experiment.ipynb).
+    - my virtual environment does not work properlly. even though I have activated the environment the python version does not points to the version it is suppose to.
       - checked [this](https://github.com/pyenv/pyenv-virtualenv/issues/343) issue.
       - Bumped [this](https://stackoverflow.com/questions/56462518/virtualenv-with-pyenv-gives-wrong-python-version) I will recreate the virtualenv.
       - Stucked. These things were working smoothyly now it is pain.
