@@ -36,3 +36,4 @@ This document is my journal about this project. I am writing all my thoughts tri
       - checked [this](https://github.com/pyenv/pyenv-virtualenv/issues/343) issue.
       - Bumped [this](https://stackoverflow.com/questions/56462518/virtualenv-with-pyenv-gives-wrong-python-version) I will recreate the virtualenv.
       - Stucked. These things were working smoothyly now it is pain.
+      - [This](https://github.com/pyenv/pyenv/issues/1342) page suggested to remove pyenv and reinstall.
