@@ -17,4 +17,8 @@ python main.py
 
 or
 
-execute [this](http://colab.research.google.com/github/hakanonal/hang-man-ai/blob/main/play.ipynb) notebook
+execute [this](play.ipynb) notebook
+
+or
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/hakanonal/hang-man-ai/blob/main/play.ipynb)
