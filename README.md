@@ -8,3 +8,13 @@ Again, as always
 
 - My journal is [here](docs/Journal.md).
 - The project board is [here](https://github.com/hakanonal/hang-man-ai/projects/1).
+
+## To Play
+
+```
+python main.py
+```
+
+or
+
+execute [this](play.ipynb) notebook
