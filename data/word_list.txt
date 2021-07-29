@@ -88,7 +88,7 @@ abdestlik
 abdestlilik
 abdestsiz
 abdestsizlik
-abdiâciz
+abdiaciz
 abdülleziz
 abe
 abece
@@ -359,13 +359,13 @@ aciliyet
 acillik
 acil servis
 aciz
-âciz
-âcizane
-âcizleşebilme
-âcizleşebilmek
-âcizleşme
-âcizleşmek
-âcizlik
+aciz
+acizane
+acizleşebilme
+acizleşebilmek
+acizleşme
+acizleşmek
+acizlik
 acube
 acul
 aculluk
@@ -503,7 +503,7 @@ açık lise
 açık maaşı
 açık mavi
 açık mektup
-açık ordugâh
+açık ordugah
 açık oturum
 açık oy
 açık öğretim
@@ -689,7 +689,7 @@ adanma
 adanmak
 adap
 Adapazarı
-adap erkân
+adap erkan
 adaptasyon
 adapte
 adaptör
@@ -728,30 +728,30 @@ addetmek
 addolunma
 addolunmak
 ad durumu
-adedî
+adedi
 adedimürettep
 adem 
-âdem
-Âdem
-âdembaba
-Âdem Baba 
-Âdemci
-Âdemcilik
-âdemelması
-âdem evladı
+adem
+adem
+adembaba
+adem Baba 
+ademci
+ademcilik
+ademelması
+adem evladı
 ademimerkeziyet
 ademimerkeziyetçi
 ademimerkeziyetçilik
 ademiyet
-âdemiyet
-âdemoğlu
+ademiyet
+ademoğlu
 adenit
 adese
 adet
-âdet
-âdeta
+adet
+adeta
 adetçe
-âdetgörmezlik
+adetgörmezlik
 adezyon kuvveti
 ad gövdesi
 adı belirsiz
@@ -970,8 +970,8 @@ afyonlu
 afyon ruhu
 afyon sakızı
 Ag
-agâh
-agâhlık
+agah
+agahlık
 agami
 aganta
 agaragar
@@ -1371,7 +1371,7 @@ ahbaplık
 ahcar
 ahdetme
 ahdetmek
-ahdî
+ahdi
 Ahd i Atik
 Ahd i Cedit
 ahenk
@@ -1417,7 +1417,7 @@ ahitleşmek
 ahitname
 ahiz
 ahize
-ahkâm
+ahkam
 ahlaf
 ahlak
 ahlak bilimci
@@ -1653,7 +1653,7 @@ akıl hastanesi
 akıl hastası
 akıl hocalığı
 akıl hocası
-akıl kârı
+akıl karı
 akıl kethüdası
 akıl kumkuması
 akıl kutusu
@@ -1757,7 +1757,7 @@ akillik
 akim
 akis
 akit
-âkit
+akit
 akitli
 akit vaadi
 ak kan
@@ -1958,7 +1958,7 @@ aksırtma
 aksırtmak
 aksi
 aksi aksi
-aksi hâlde
+aksi halde
 aksilenme
 aksilenmek
 aksileşme
@@ -2120,7 +2120,7 @@ akzambak
 al
 Al
 ala 
-âlâ
+ala
 ala ala hey
 alabacak
 alabalık
@@ -2397,15 +2397,15 @@ alelıtlak
 alelumum
 alelusul
 alem 
-âlem
+alem
 alemci
-âlemci
+alemci
 alemcilik
-âlemcilik
+alemcilik
 alemdar
 alemdarlık
-âlemşümul
-âlemşümullük
+alemşümul
+alemşümullük
 alenen
 alengir
 alengirli
@@ -2625,14 +2625,14 @@ alidat
 alifatik
 alil
 alim 
-âlim
+alim
 alimallah
-âlimane
-âlimlik
+alimane
+alimlik
 alinazik
 aliterasyon
 alivre
-aliyyülâlâ
+aliyyülala
 alizarin
 alize
 Alkaevli
@@ -2889,7 +2889,7 @@ alzaymır
 am
 Am
 ama 
-âmâ
+ama
 amabile
 amaç
 amaç dışı
@@ -2909,7 +2909,7 @@ amade
 amadelik
 amal
 amalgam
-âmâlık
+amalık
 amalierbaa
 aman
 amanın
@@ -2974,7 +2974,7 @@ amelelik
 amele pazarı
 amele taburu
 amele yanığı
-amelî
+ameli
 ameliyat
 ameliyat eldiveni
 ameliyathane
@@ -3011,7 +3011,7 @@ ametal
 ametist
 amfi
 amfibi
-amfibi harekât
+amfibi harekat
 amfibik
 amfibol
 amfibyumlar
@@ -3023,7 +3023,7 @@ amigoluk
 amil
 amilaz
 amin 
-âmin
+amin
 amino asit
 amip
 amipler
@@ -3048,7 +3048,7 @@ amma
 amma velakin
 amme
 amme davası
-amme efkârı
+amme efkarı
 amme hukuku
 amme idaresi
 amme menfaati
@@ -3175,7 +3175,7 @@ analıkızlı
 analist
 analistlik
 analitik
-analitik zekâ
+analitik zeka
 analiz
 analizci
 analizcilik
@@ -4018,7 +4018,7 @@ arayıvermek
 ara yön
 arayüz
 araz 
-âraz
+araz
 arazbar
 arazbarbuselik
 arazi
@@ -4345,7 +4345,7 @@ arslan
 arslanlı
 arş
 arşe
-arşıâlâ
+arşıala
 arşın
 arşınlama
 arşınlamak
@@ -4473,9 +4473,9 @@ arz talep
 arz talep dengesi
 arz talep kanunu
 arzu
-arzuhâl
-arzuhâlci
-arzuhâlcilik
+arzuhal
+arzuhalci
+arzuhalcilik
 arzulama
 arzulamak
 arzulanış
@@ -4638,20 +4638,20 @@ askercesine
 askerci
 askercilik
 asker hastanesi
-askerî
-askerî ambargo
-askerî ataşe
-askerî güç
-askerî hastane
-askerî inzibat
-askerî kaput
-askerîleşme
-askerîleşmek
-askerîleştirilme
-askerîleştirilmek
-askerîleştirme
-askerîleştirmek
-askerî rüştiye
+askeri
+askeri ambargo
+askeri ataşe
+askeri güç
+askeri hastane
+askeri inzibat
+askeri kaput
+askerileşme
+askerileşmek
+askerileştirilme
+askerileştirilmek
+askerileştirme
+askerileştirmek
+askeri rüştiye
 askeriye
 asker kaçağı
 askerlik
@@ -4863,14 +4863,14 @@ aşı boyası
 aşıcı
 aşıcılık
 aşık
-âşık
-aşı kâğıdı
-âşıkane
+aşık
+aşı kağıdı
+aşıkane
 aşık kemiği
-âşıklı
-âşıklık
-âşıktaş
-âşıktaşlık
+aşıklı
+aşıklık
+aşıktaş
+aşıktaşlık
 aşılabilme
 aşılabilmek
 aşılama
@@ -4961,9 +4961,9 @@ aşıt
 aşı taşı
 aşıverme
 aşıvermek
-aşikâr
-aşikâre
-aşikârlık
+aşikar
+aşikare
+aşikarlık
 Aşil kirişi
 Aşil tendonu
 Aşil topuğu
@@ -5120,7 +5120,7 @@ atıcılık
 atıf
 atıfet
 atık
-atık kâğıt
+atık kağıt
 atık su
 atıl
 atılabilme
@@ -5321,7 +5321,7 @@ avcılık
 avcı otu
 avcı uçağı
 avdet
-avdetî
+avdeti
 av dönemi
 averaj
 av hayvanı
@@ -5472,7 +5472,7 @@ ayaklık
 ayaklı koşma
 ayaklı kütüphane
 ayaklılık
-ayaklı mâni
+ayaklı mani
 ayak oyunu
 ayak perde
 ayak satıcısı
@@ -5498,7 +5498,7 @@ ayaküzeri
 ayakyolu
 ayal
 ayan 
-âyan
+ayan
 ayan beyan
 Ayancık
 ayandon
@@ -5612,7 +5612,7 @@ aygır deposu
 aygıt
 ay gün takvimi
 ay gün yılı
-ay hâli
+ay hali
 ayı
 ayıbacağı
 ayı balığı
@@ -6010,7 +6010,7 @@ azımsayabilme
 azımsayabilmek
 azımsayış
 azınlık
-azınlık hükûmeti
+azınlık hük ümeti
 azış
 azışma
 azışmak
@@ -6027,9 +6027,9 @@ azıttırmak
 azil
 azim
 azimet
-azimkâr
-azimkârane
-azimkârlık
+azimkar
+azimkarane
+azimkarlık
 azimli
 azimlilik
 azimsiz
@@ -6127,7 +6127,7 @@ baba soylu
 baba soyluluk
 baba tarafı
 baba tatlısı
-baba yadigârı
+baba yadigarı
 babayani
 babayanilik
 baba yarısı
@@ -6186,7 +6186,7 @@ badas
 badat
 bade
 badehu
-badeli âşık
+badeli aşık
 badelmilat
 badem
 badema
@@ -6693,7 +6693,7 @@ bakkal
 bakkal çakkal
 bakkal defteri
 bakkaliye
-bakkal kâğıdı
+bakkal kağıdı
 bakkallık
 bakla
 baklaçiçeği
@@ -6739,7 +6739,7 @@ baktırtma
 baktırtmak
 bal
 bala
-Balâ
+Bala
 balaban
 balaban kuşu
 balabanlaşma
@@ -7108,7 +7108,7 @@ barem
 baret
 baretlik
 barfiks
-bargâh
+bargah
 bargam
 barhana
 bar havası
@@ -7563,8 +7563,8 @@ başkan vekili
 başkan yardımcısı
 başkarakter
 başkası
-başkâtip
-başkâtiplik
+başkatip
+başkatiplik
 başkatsayı
 başkemancı
 başkemancılık
@@ -7639,7 +7639,7 @@ Başmakçı
 başmakçılık
 başmaklık
 başmal
-başmekân
+başmekan
 başmisafir
 başmuallim
 başmuallimlik
@@ -7725,7 +7725,7 @@ başülke
 başüstü
 baş üstü dolabı
 başüstüne
-başvekâlet
+başvekalet
 başvekil
 başvekillik
 başvezir
@@ -7814,10 +7814,10 @@ batıl inanç
 batıl itikat
 batıllık
 batın
-bâtın
-bâtıni
-Bâtıni
-Bâtıniye
+batın
+batıni
+Batıni
+Batıniye
 batırabilme
 batırabilmek
 batırık
@@ -8121,7 +8121,7 @@ bedenci
 beden dili
 beden eğitimi
 bedenen
-bedenî
+bedeni
 beden işçisi
 bedenleşme
 bedenleşmek
@@ -8184,7 +8184,7 @@ beğenmek
 beğenmemezlik
 beğenmezlik
 Behçet hastalığı
-behemehâl
+behemehal
 beher
 beherglas
 behey
@@ -8199,11 +8199,11 @@ bej
 bek
 beka
 bekar 
-bekâr
-bekâret
-bekârhane
-bekârlık
-bekâr odası
+bekar
+bekaret
+bekarhane
+bekarlık
+bekar odası
 bekas
 bekçi
 bekçilik
@@ -8289,7 +8289,7 @@ belediye çavuşu
 belediye encümeni
 belediyelik
 belediye meclisi
-belediye nikâhı
+belediye nikahı
 belediye polisi
 belediye reisi
 belediye sarayı
@@ -8558,7 +8558,7 @@ bencilleşme
 bencilleşmek
 bencillik
 bende
-bendegân
+bendegan
 bendehane
 bendezade
 bendir
@@ -8581,7 +8581,7 @@ bengileştirme
 bengileştirmek
 bengilik
 bengi su
-beniâdem
+beniadem
 benibeşer
 beniçinci
 beniçincilik
@@ -8850,8 +8850,8 @@ Besni
 beste
 besteci
 bestecilik
-bestekâr
-bestekârlık
+bestekar
+bestekarlık
 besteleme
 bestelemek
 bestelenebilme
@@ -8868,7 +8868,7 @@ besteleyiverme
 besteleyivermek
 besteli
 bestelik
-bestenigâr
+bestenigar
 bestesiz
 beş
 beşamel
@@ -8880,8 +8880,8 @@ beş bir
 beş dört
 beş duyu
 beşer
-beşerî
-beşerî coğrafya
+beşeri
+beşeri coğrafya
 beşeriyet
 beşeriyetçi
 beşeriyetçilik
@@ -9170,9 +9170,9 @@ bezilme
 bezilmek
 bezimsi
 bezir
-bezirgân
-bezirgânbaşı
-bezirgânlık
+bezirgan
+bezirganbaşı
+bezirganlık
 bezirleme
 bezirlemek
 bezir yağı
@@ -9426,8 +9426,8 @@ biftek
 biftek mantarı
 Biga 
 Bigadiç 
-bigâne
-bigânelik
+bigane
+biganelik
 bigudi
 bigünah
 bihaber
@@ -9821,7 +9821,7 @@ birahane
 birahaneci
 birahanecilik
 bir alay
-bir âlem
+bir alem
 biralık
 bira mayası
 bir an
@@ -10687,7 +10687,7 @@ borsacı
 borsacılık
 borsa değeri
 borsa işlemi
-borsa kâğıdı
+borsa kağıdı
 borsa komiseri
 borsa komiserliği
 borsa komisyonculuğu
@@ -10795,7 +10795,7 @@ boş boş
 boş inanç
 boş kafalı
 boş kafalılık
-boş kâğıdı
+boş kağıdı
 boş küme
 boş laf
 boşlama
@@ -11445,8 +11445,8 @@ buhurdan
 buhurluk
 buhurumeryem
 buji
-bu kabîl
-bu kabîlden
+bu kabil
+bu kabilden
 bukağı
 bukağılama
 bukağılamak
@@ -12314,10 +12314,10 @@ camcı elması
 camcılık
 camcı macunu
 cam çivisi
-camekân
-camekânlı
-camekânlı kutu
-camekânsız
+camekan
+camekanlı
+camekanlı kutu
+camekansız
 cam elyafı
 camevi
 camgöbeği
@@ -12626,10 +12626,10 @@ Cebrail
 cebren
 cebretme
 cebretmek
-cebrî
+cebri
 cebrinefis
 cebriye
-cebrî yürüyüş
+cebri yürüyüş
 cedel
 cedelleşme
 cedelleşmek
@@ -12637,8 +12637,8 @@ Cedi
 cedit
 cedre
 cefa
-cefakâr
-cefakârlık
+cefakar
+cefakarlık
 cefakeş
 cefakeşlik
 cefalı
@@ -12649,7 +12649,7 @@ cehdetmek
 cehennem
 cehennem azabı
 cehennem hayatı
-cehennemî
+cehennemi
 cehennem kütüğü
 cehennemleşme
 cehennemleşmek
@@ -12666,8 +12666,8 @@ ceketli
 ceketsiz
 celadet
 celal
-Celâli
-Celâlilik
+Celali
+Celalilik
 celallenebilme
 celallenebilmek
 celalleniverme
@@ -12690,7 +12690,7 @@ celi yazı
 cellat
 cellatlık
 celp
-celp kâğıdı
+celp kağıdı
 celpname
 celse
 cem
@@ -12706,7 +12706,7 @@ cemaatsizlik
 cemadat
 cemal
 ceman
-ceman yekûn
+ceman yek ün
 cem ayini
 cemaziyelahir
 cemaziyelevvel
@@ -12738,9 +12738,9 @@ cenaze töreni
 cendere
 cendereleşme
 cendereleşmek
-cengâver
-cengâverce
-cengâverlik
+cengaver
+cengaverce
+cengaverlik
 cengel
 cenin
 ceninisakıt
@@ -12758,7 +12758,7 @@ cennet kuşugiller
 cennetleşme
 cennetleşmek
 cennetlik
-cennetmekân
+cennetmekan
 cennet öküzü
 cennet taamı
 centilmen
@@ -12853,7 +12853,7 @@ cevahircilik
 cevap
 cevap anahtarı
 cevap hakkı
-cevap kâğıdı
+cevap kağıdı
 cevaplama
 cevaplamak
 cevaplandırılma
@@ -12878,7 +12878,7 @@ cevhersiz
 cevir
 ceviz
 cevizgiller
-cevizî
+cevizi
 ceviz içi
 cevizimsi
 cevizli
@@ -12893,7 +12893,7 @@ Cevza
 Ceyhan 
 ceylan
 ceylan bakışlı
-Ceylânpınar 
+Ceylanpınar 
 ceza
 ceza alanı
 ceza atışı
@@ -12933,7 +12933,7 @@ cezerye
 cezir
 cezire
 cezp
-cezrî
+cezri
 cezve
 Cf
 cıbıl
@@ -13189,7 +13189,7 @@ ciltlik
 ciltsiz
 cilve
 cilvebaz
-cilvekâr
+cilvekar
 cilvelenme
 cilvelenmek
 cilveleşebilme
@@ -13247,7 +13247,7 @@ cinsellik bilimsel
 cinsel sapık
 cinsel sapıklık
 cinsel taciz
-cinsî
+cinsi
 cinsilatif
 cins isim
 cinsiyet
@@ -13446,7 +13446,7 @@ cümbüşçü
 cümbüşçülük
 cümbüşlü
 cümle
-cümle âlem
+cümle alem
 cümle bilgisi
 cümlecik
 cümle kapısı
@@ -13459,8 +13459,8 @@ cünun
 cünüp
 cünüplük
 cüret
-cüretkâr
-cüretkârlık
+cüretkar
+cüretkarlık
 cüretlendirme
 cüretlendirmek
 cüretlenme
@@ -13535,7 +13535,7 @@ cüzzamlı
 çadır direği
 çadır kent
 çadırlı
-çadırlı ordugâh
+çadırlı ordugah
 çadır tiyatrosu
 çadıruşağı
 çağ
@@ -13608,7 +13608,7 @@ cüzzamlı
 çağrıcı
 çağrıcılık
 çağrı cihazı
-çağrı kâğıdı
+çağrı kağıdı
 çağrılabilme
 çağrılabilmek
 çağrılı
@@ -14128,12 +14128,12 @@ cüzzamlı
 çaresizcesine
 çaresizlik
 çareviç
-çargâh
+çargah
 çarık
 çarıkçı
 çarıkçılık
 çarıklı
-çarıklı erkânıharp
+çarıklı erkanıharp
 çarıklık
 çarıksız
 çariçe
@@ -15205,7 +15205,7 @@ cüzzamlı
 çıkarma birliği
 çıkarma botu
 çıkarma gemisi
-çıkarma harekâtı
+çıkarma harekatı
 çıkarma işareti
 çıkarmak
 çıkarma yeri
@@ -15593,7 +15593,7 @@ cüzzamlı
 çiftetelli
 çifte vatandaş
 çifte vatandaşlık
-çift kâğıtlı
+çift kağıtlı
 çift kanatlılar
 çift kapı
 çift kişilik
@@ -15618,7 +15618,7 @@ cüzzamlı
 çiftleştirmek
 çiftlik
 Çiftlik
-çiftlik kâhyası
+çiftlik kahyası
 çiftlik kebabı
 Çiftlikköy
 çiftlik mantısı
@@ -15887,7 +15887,7 @@ cüzzamlı
 çivi
 çivici
 çivicilik
-çividî
+çividi
 çivileme
 çivilemek
 çivilenebilme
@@ -16139,7 +16139,7 @@ cüzzamlı
 çokluk eki
 çoklukla
 çoklu ortam
-çoklu zekâ
+çoklu zeka
 çok ortaklı
 çok ortaklılık
 çok partili
@@ -16722,28 +16722,28 @@ daha bir
 daha daha
 dahası
 dahi 
-dâhi
-dâhice
+dahi
+dahice
 dahil
-dâhil
-dâhilen
-dâhilî
-dâhilî deniz
-dâhilî harp
-dâhilik
-dâhilî nizamname
-dâhilî talimatname
-dâhiliye
-dâhiliyeci
-dâhiliye mütehassısı
-dâhiliye subayı
-dâhiyane
+dahil
+dahilen
+dahili
+dahili deniz
+dahili harp
+dahilik
+dahili nizamname
+dahili talimatname
+dahiliye
+dahiliyeci
+dahiliye mütehassısı
+dahiliye subayı
+dahiyane
 dahletme
 dahletmek
 daim
 daima
-daimî
-daimîlik
+daimi
+daimilik
 daimlik
 dair
 daire
@@ -16765,7 +16765,7 @@ dakikasında
 daktilo
 daktilograf
 daktilografi
-daktilo kâğıdı
+daktilo kağıdı
 daktiloluk
 daktilo makinesi
 daktilo masası
@@ -17268,8 +17268,8 @@ davet
 davetçi
 davetçilik
 davetiye
-davetkâr
-davetkârlık
+davetkar
+davetkarlık
 davetli
 davetname
 davetsiz
@@ -17574,7 +17574,7 @@ değerlenme
 değerlenmek
 değerler dizisi
 değerli
-değerli kâğıt
+değerli kağıt
 değerlilik
 değersiz
 değersizleşebilme
@@ -17896,7 +17896,7 @@ demir dikeni
 demir hat
 demirhindi
 demirhindi şerbeti
-demirî
+demiri
 demirimsi
 demirkapan
 demir kapı
@@ -18379,11 +18379,11 @@ dereotu
 Derepazarı 
 dere tepe
 dere yatağı
-dergâh
+dergah
 dergi
 dergici
 dergicilik
-derhâl
+derhal
 derhatır
 deri
 deri altı
@@ -18824,7 +18824,7 @@ devredilmek
 devredilmezlik
 devrediş
 Devrek
-Devrekâni 
+Devrekani 
 devre kesici
 devre mülk
 devren
@@ -18832,8 +18832,8 @@ devre potansiyeli
 devretme
 devretmek
 devre voltajı
-devrî
-devriâlem
+devri
+devrialem
 devridaim
 devridaim pompası
 devrihindi
@@ -18923,7 +18923,7 @@ dış açı
 dışa dönük
 dışa dönüklük
 dış ağ
-dış âlem
+dış alem
 dış alım
 dış alımcı
 dış alımcılık
@@ -19085,13 +19085,13 @@ difüzyon
 Digor 
 diğer
 diğeri
-diğerkâm
-diğerkâmlık
+diğerkam
+diğerkamlık
 dijital
 dik
 dik açı
 dik açıklık
-dik âlâsı
+dik alası
 dikbaşlı
 dikbaşlılık
 dik biçme
@@ -19213,7 +19213,7 @@ dikmen
 Dikmen
 dikotomi
 dikotomik
-dik rüzgâr
+dik rüzgar
 dikse
 dik silindir
 diksiyon
@@ -19473,8 +19473,8 @@ dinginleştirme
 dinginleştirmek
 dinginlik
 Dingo
-dinî
-dinî bayram
+dini
+dini bayram
 dini bütün
 dini bütünlük
 diniş
@@ -20218,7 +20218,7 @@ dokumacılık
 dokumahane
 dokumak
 dokumalı
-dokuma tezgâhı
+dokuma tezgahı
 dokunabilme
 dokunabilmek
 dokunaç
@@ -21128,7 +21128,7 @@ duvar dişi
 duvar gazetesi
 duvar halısı
 duvar ilanı
-duvar kâğıdı
+duvar kağıdı
 duvarlı
 duvar pası
 duvar resmi
@@ -21255,7 +21255,7 @@ düello
 düellocu
 düelloculuk
 düet
-dügâh
+dügah
 düğme
 düğmeci
 düğmecilik
@@ -21297,9 +21297,9 @@ düğünsüz
 düğün yahnisi
 düğürcük
 dük
-dükkân
-dükkâncı
-dükkâncılık
+dükkan
+dükkancı
+dükkancılık
 düklük
 düldül
 Düldül
@@ -21342,7 +21342,7 @@ dünürcülük
 dünürlük
 dünya
 Dünya
-dünya âlem
+dünya alem
 dünyacı
 dünyacılık
 dünyada
@@ -21518,7 +21518,7 @@ düşüt
 düşüverme
 düşüvermek
 düttürü
-düttürü Leylâ
+düttürü Leyla
 düve
 düvel
 düven
@@ -21683,13 +21683,13 @@ ebcet
 ebcet hesabı
 ebe
 ebebulguru
-ebedî
-ebedîleşme
-ebedîleşmek
-ebedîleştirme
-ebedîleştirmek
-ebedîlik
-ebedî uyku
+ebedi
+ebedileşme
+ebedileşmek
+ebedileştirme
+ebedileştirmek
+ebedilik
+ebedi uyku
 ebediyen
 ebediyet
 ebegümeci
@@ -21753,13 +21753,13 @@ edatlı
 edatlı tümleç
 edat tümleci
 ede
-edebî
-edebî dil
-edebî eser
+edebi
+edebi dil
+edebi eser
 edebikelam
 edebilme
 edebilmek
-edebî sanat
+edebi sanat
 edebiyat
 edebiyat bilimci
 edebiyat bilimi
@@ -21834,7 +21834,7 @@ edinmek
 edinti
 edip
 Edirne
-Edirnekâri
+Edirnekari
 Edirneli
 Edirnelilik
 edisyon
@@ -21881,15 +21881,15 @@ efildemek
 efil efil
 efileme
 efilemek
-efkâr
-efkârıumumiye
-efkârlanış
-efkârlanma
-efkârlanmak
-efkârlı
-efkârlılık
+efkar
+efkarıumumiye
+efkarlanış
+efkarlanma
+efkarlanmak
+efkarlı
+efkarlılık
 eflak
-Eflâni 
+Eflani 
 eflatun
 eflatuni
 eflatunsu
@@ -21911,7 +21911,7 @@ efsanevilik
 efsun
 efsuncu
 efsunculuk
-efsunkâr
+efsunkar
 efsunlama
 efsunlamak
 efsunlu
@@ -22110,18 +22110,18 @@ ehemmiyetlilik
 ehemmiyetsiz
 ehemmiyetsizlik
 ehil
-ehlî
+ehli
 ehlibeyit
 ehlidil
 ehlihibre
 ehlikeyif
 ehlikitap
-ehlîleşme
-ehlîleşmek
-ehlîleştirilme
-ehlîleştirilmek
-ehlîleştirme
-ehlîleştirmek
+ehlileşme
+ehlileşmek
+ehlileştirilme
+ehlileştirilmek
+ehlileştirme
+ehlileştirmek
 ehlisalip
 ehlisünnet
 ehlivukuf
@@ -22141,7 +22141,7 @@ ejder
 ejderha
 ejektör
 ek
-ekâbir
+ekabir
 ekalliyet
 ekarte
 ek bileziği
@@ -22394,7 +22394,7 @@ ekzotermik
 el
 ela
 el adamı
-el âlem
+el alem
 el alışkanlığı
 el altında
 el altından
@@ -22406,9 +22406,9 @@ elastiki
 elastikiyet
 elastiklik
 el ayası
-Elâzığ
-Elâzığlı
-Elâzığlılık
+Elazığ
+Elazığlı
+Elazığlılık
 elbasan tavası
 elbet
 elbette
@@ -22648,7 +22648,7 @@ eli dar
 eli darlık
 elif
 elifba
-elifî
+elifi
 elifi elifine
 eli geniş
 eli hafif
@@ -22657,8 +22657,8 @@ eli koynunda
 eli kulağında
 el ilanı
 elim
-eli mahkûm
-eli mahkûmluk
+eli mahk üm
+eli mahk ümluk
 eli maşalı
 eli maşalılık
 eliminasyon
@@ -22683,7 +22683,7 @@ eli sopalılık
 eli şakağında
 el işçiliği
 el işi
-el işi kâğıdı
+el işi kağıdı
 elit
 elitlik
 eli uz
@@ -22853,7 +22853,7 @@ emin
 eminlik
 Eminönü 
 emir
-emîr
+emir
 emirber
 emirberlik
 emircik
@@ -22864,7 +22864,7 @@ Emirgazi
 emir kipi
 emir komuta zinciri
 emir kulu
-emîrlik
+emirlik
 emirname
 emir subayı
 emisyon
@@ -23356,12 +23356,12 @@ eriyiş
 eriyiverme
 eriyivermek
 erk
-erkân
-erkânıharbiyeiumumiye
-erkânıharp
-erkânıharplik
-erkân kürkü
-erkân minderi
+erkan
+erkanıharbiyeiumumiye
+erkanıharp
+erkanıharplik
+erkan kürkü
+erkan minderi
 erke
 erkeç
 erkeçsakalı
@@ -23505,7 +23505,7 @@ esastan
 esastan bozma
 esas vaziyet
 esatir
-esatirî
+esatiri
 esbabımucibe
 esbak
 esbap
@@ -23528,7 +23528,7 @@ esenlikli
 Esenyurt
 eser
 esericedit
-esericedit kâğıdı
+esericedit kağıdı
 eserme
 esermek
 eser miktarda
@@ -23825,7 +23825,7 @@ eşitsiz
 eşitsizlik
 eşiverme
 eşivermek
-eşkâl
+eşkal
 eş kanatlı
 eşkenar
 eşkenar dörtgen
@@ -24355,10 +24355,10 @@ ezebilme
 ezebilmek
 ezel
 ezel ebet
-ezelî
-ezelîlik
-ezelî rekabet
-ezelî takdir
+ezeli
+ezelilik
+ezeli rekabet
+ezeli takdir
 ezercesine
 ezgi
 ezgiç
@@ -24505,7 +24505,7 @@ falakasız
 falan
 falanca
 falan festekiz
-falan feşmekân
+falan feşmekan
 falan fıstık
 falan filan
 falanıncı
@@ -24540,10 +24540,10 @@ fanfar
 fanfin
 fangri
 fani 
-fâni
-fâni dünya
+fani
+fani dünya
 fanila
-fânilik
+fanilik
 fanta
 fantasma
 fantastik
@@ -24725,7 +24725,7 @@ faytonculuk
 faz
 fazıl
 fazilet
-faziletkâr
+faziletkar
 faziletli
 faziletlilik
 faziletsiz
@@ -24745,16 +24745,16 @@ Fe
 fecaat
 feci
 fecir
-fecrikâzip
+fecrikazip
 fecrisadık
 feda
 fedai
 fedaice
 fedailik
-fedakâr
-fedakârca
-fedakârcasına
-fedakârlık
+fedakar
+fedakarca
+fedakarcasına
+fedakarlık
 federal
 federalist
 federalizm
@@ -24775,7 +24775,7 @@ Feke
 fekül
 fel
 felah
-Felâhiye 
+Felahiye 
 felaket
 felaketli
 felaketzede
@@ -24806,7 +24806,7 @@ feminizm
 fen
 fena
 fenafillah
-fena hâlde
+fena halde
 fena kalpli
 fena kalplilik
 fenalaşma
@@ -24829,8 +24829,8 @@ fenersiz
 fenik
 fenlenme
 fenlenmek
-fennî
-fennî muayene
+fenni
+fenni muayene
 fenol
 fenoloji
 fenolojik
@@ -24880,15 +24880,15 @@ ferç
 ferda
 ferdası
 ferden ferda
-ferdî
-ferdî kaza sigortası
-ferdîlik
+ferdi
+ferdi kaza sigortası
+ferdilik
 ferdiyet
 ferdiyetçi
 ferdiyetçilik
 ferforje
 ferhane
-ferî
+feri
 feribot
 ferih
 ferih fahur
@@ -24986,7 +24986,7 @@ fevç fevç
 feveran
 fevk
 fevkalade
-fevkalade hâl
+fevkalade hal
 fevkaladelik
 fevkalbeşer
 fevkani
@@ -25132,7 +25132,7 @@ fırtına kuşu
 fırtına kuşugiller
 fırtınalı
 fırtına uğrağı
-fırtınaya yakın rüzgâr
+fırtınaya yakın rüzgar
 fısfıs
 fıs fıs 
 fısfıslama
@@ -25260,10 +25260,10 @@ fiilden türeme fiil
 fiilden türeme isim 
 fiilen
 fiil gövdesi
-fiilî
+fiili
 fiili bozuk
-fiilî hizmet
-fiilî hizmet zammı
+fiili hizmet
+fiili hizmet zammı
 fiilimsi
 fiiliyat
 fiil kökü
@@ -25289,7 +25289,7 @@ fikirsizlik
 fikir teatisi
 fikir yazısı
 fikren
-fikrî
+fikri
 fikrisabit
 fikriyat
 fiks menü
@@ -25342,7 +25342,7 @@ filiskin
 Filistinli
 filiz
 filizcik
-filizî
+filizi
 filizkıran
 filizleme
 filizlemek
@@ -25631,7 +25631,7 @@ folk müziği
 folk sanatçısı
 folluk
 folyo
-folyo kâğıdı
+folyo kağıdı
 fon
 fonda
 fondan
@@ -25641,7 +25641,7 @@ fondü
 fonem
 fonetik
 fonetikçi
-fon kâğıdı
+fon kağıdı
 fonksiyon
 fonksiyonalizm
 fonksiyonel
@@ -25914,7 +25914,7 @@ Fürs
 füru
 fürumaye
 füsun
-füsunkâr
+füsunkar
 füsunlu
 fütuhat
 fütuhatçı
@@ -25998,9 +25998,9 @@ gagalı memeliler
 gagamsı
 Gagavuz
 Gagavuzca
-gâh
-gâhi
-gâhice
+gah
+gahi
+gahice
 gaile
 gaileli
 gailesiz
@@ -26123,8 +26123,8 @@ garantisizlik
 garantör
 garantörlük
 garaz
-garazkâr
-garazkârlık
+garazkar
+garazkarlık
 garazlı
 garazsız
 garazsızca
@@ -26165,7 +26165,7 @@ garp
 Garp
 Garpçı
 Garpçılık
-Garpkâri
+Garpkari
 Garplı
 Garplılaşma
 Garplılaşmak
@@ -26202,16 +26202,16 @@ gaşyolmak
 gato
 gauss
 gavot
-gâvur
-gâvur baklası
-gâvurca
-gâvurcasına
-gâvur eziyeti
-gâvur icadı
-gâvur inadı
-gâvurlaşma
-gâvurlaşmak
-gâvurluk
+gavur
+gavur baklası
+gavurca
+gavurcasına
+gavur eziyeti
+gavur icadı
+gavur inadı
+gavurlaşma
+gavurlaşmak
+gavurluk
 gayakol
 gaybubet
 gayda
@@ -26251,7 +26251,7 @@ gayrimahdut
 gayrimakul
 gayrimemnun
 gayrimenkul
-gayrimeskûn
+gayrimesk ün
 gayrimeşru
 gayrimeşruluk
 gayrimuayyen
@@ -26259,11 +26259,11 @@ gayrimuntazam
 gayrimümkün
 gayrimüslim
 gayrinizami
-gayriresmî
-gayriresmîlik
+gayriresmi
+gayriresmilik
 gayrisafi
 gayrisafi hasılat
-gayrisafi millî hasıla
+gayrisafi milli hasıla
 gayrisıhhi
 gayrişahsi
 gayrişahsilik
@@ -26806,7 +26806,7 @@ genel uygunluk bildirimi
 genel yazman
 genel yazmanlık
 genel yetenek
-genel zekâ
+genel zeka
 general
 generallik
 genetik
@@ -26932,7 +26932,6 @@ gereç
 Gerede 
 gereğince
 gerek
-gerek ... gerek ...
 gerekçe
 gerekçelendirme
 gerekçelendirmek
@@ -27039,8 +27038,8 @@ geri tepme
 geri vites
 geriye dönüş
 geriz
-geri zekâlı
-geri zekâlılık
+geri zekalı
+geri zekalılık
 Germanist
 Germanistik
 Germanofil
@@ -27395,7 +27394,7 @@ Girit kekiği
 Giritli
 giriverme
 girivermek
-girizgâh
+girizgah
 girme
 girmek
 girmelik
@@ -28634,7 +28633,7 @@ güler yüz
 güler yüzlü
 güler yüzlülük
 gülgiller
-gülgûn
+gülg ün
 gülgüli
 gülhatmi
 gülibrişim
@@ -28775,15 +28774,15 @@ gümüş yağmurcun
 gümüş yıl
 gün
 günah
-günahkâr
-günahkârlık
+günahkar
+günahkarlık
 günah keçisi
 günahlı
 günahlılık
 günahsız
 günahsızca
 günahsızlık
-günâşık
+günaşık
 günaşırı
 günaydın
 gün balı
@@ -29111,7 +29110,7 @@ güzellik yarışması
 güzel sanatlar
 güzel yazı sanatı
 Güzelyurt
-güzergâh
+güzergah
 güzeşte
 güzey
 güzide
@@ -29158,7 +29157,7 @@ habersizlik
 haber stüdyosu
 habeş
 Habeş
-Habeşî
+Habeşi
 habip
 habis
 habislik
@@ -29284,7 +29283,7 @@ hafiflik
 hafif makineli
 hafifmeşrep
 hafifmeşreplik
-hafif rüzgâr
+hafif rüzgar
 hafif sanayi
 hafifseme
 hafifsemek
@@ -29336,7 +29335,7 @@ haiz
 haje
 hak
 hak
-hâk
+hak
 Hak
 hakan
 hakani senet
@@ -29356,7 +29355,7 @@ hakemli
 hakemli dergi
 hakemlik
 hakeza
-hâkî
+haki
 hak ihlali
 hakikat
 hakikaten
@@ -29367,21 +29366,21 @@ hakikatsizlik
 hakiki
 hakikilik
 hakim 
-hâkim
+hakim
 hakimane
-hâkimane
-hâkimevi
-hâkimiyet
-hâkimiyetimilliye
-hâkimlik
-hâkim rüzgâr
+hakimane
+hakimevi
+hakimiyet
+hakimiyetimilliye
+hakimlik
+hakim rüzgar
 hakir
-hakkâk
-hakkâklik
+hakkak
+hakkaklik
 hakkaniyet
-Hakkâri
-Hakkârili
-Hakkârililik
+Hakkari
+Hakkarili
+Hakkarililik
 hakkedebilme
 hakkedebilmek
 hakketme
@@ -29391,7 +29390,7 @@ hakkıhuzur
 hakkımüktesep
 hakkında
 hak kısıtlaması
-hakkısükût
+hakkısük üt
 hakkıyla
 hak kuşu
 haklama
@@ -29419,17 +29418,17 @@ hak yolu
 hal
 hal
 hal
-hâl
+hal
 hala 
-hâlâ
+hala
 Halaç
 Halaçça
 hala kızı
 halalık
 hala oğlu
 halas
-halaskâr
-halaskârlık
+halaskar
+halaskarlık
 halat
 halat çekme
 halat fitili
@@ -29442,27 +29441,27 @@ halayıklı
 halayıklık
 halaza
 halazade
-hâlbuki
+halbuki
 hal çaresi
-hâl değişimi
+hal değişimi
 haldır haldır
-hâl dili
+hal dili
 hale
 halebi
 halef
 halef selef
 halef seleflik
-hâl eki
+hal eki
 halel
 haleldar
 halelenme
 halelenmek
 haleli
-hâlen
+halen
 Halep çıbanı
-hâlet
-hâletinez
-hâletiruhiye
+halet
+haletinez
+haletiruhiye
 haletme
 haletmek
 halfa
@@ -29477,8 +29476,8 @@ hali
 haliç
 halife
 halifelik
-hâlihazır
-hâlihazırda
+halihazır
+halihazırda
 Halik
 halile
 halim
@@ -29491,7 +29490,7 @@ halislik
 halis muhlis
 halisüddem
 halita
-hâliyle
+haliyle
 halk
 halka
 halkacı
@@ -29554,15 +29553,15 @@ halledilmek
 hallediş
 hallediverme
 halledivermek
-hâllenme
-hâllenmek
-hâlleşme
-hâlleşmek
+hallenme
+hallenmek
+halleşme
+halleşmek
 halletme
 halletmek
 hallettirme
 hallettirmek
-hâllice
+hallice
 hallihamur
 hallolma
 hallolmak
@@ -29570,18 +29569,18 @@ hallolunma
 hallolunmak
 halloluş
 halojen
-hâlsiz
-hâlsizce
-hâlsizleşme
-hâlsizleşmek
-hâlsizlik
+halsiz
+halsizce
+halsizleşme
+halsizleşmek
+halsizlik
 halt
 halter
 halterci
 haltercilik
-hâl tercümesi
+hal tercümesi
 haluk
-hâl ulacı
+hal ulacı
 halüsinasyon
 halvet
 halvethane
@@ -29685,8 +29684,8 @@ hamurcu
 hamurculuk
 hamur çorbası
 hamur işi
-hamurkâr
-hamurkârlık
+hamurkar
+hamurkarlık
 hamurlama
 hamurlamak
 hamurlanma
@@ -29858,7 +29857,7 @@ haraşo
 haraza
 harbe
 harbi 
-harbî
+harbi
 harbici
 harbicilik
 harbiden
@@ -29887,7 +29886,7 @@ harcayıverme
 harcayıvermek
 harcetme
 harcetmek
-harcıâlem
+harcıalem
 harcırah
 harç
 harçlı
@@ -29905,7 +29904,7 @@ hardalsı
 hardalsız
 hardal yakısı
 hare
-harekât
+harekat
 hareke
 harekeleme
 harekelemek
@@ -29933,7 +29932,7 @@ hareli
 harem
 harem ağası
 Haremeyn
-harem kâhyası
+harem kahyası
 haremlik
 harem selamlık
 haresiz
@@ -29961,7 +29960,7 @@ harıltı
 harım
 harın
 haricen
-haricî
+harici
 hariciye
 hariciyeci
 hariciyecilik
@@ -30041,7 +30040,7 @@ hasatçılık
 hasbelkader
 hasbetenlillah
 hasbi
-hasbihâl
+hasbihal
 hasbilik
 hasebi nesebi
 hasebiyle
@@ -30119,7 +30118,7 @@ hasta bakıcı
 hasta bakıcılık
 hastaca
 hasta hakları
-hasta kâğıdı
+hasta kağıdı
 hastalanabilme
 hastalanabilmek
 hastalandırma
@@ -30406,7 +30405,7 @@ havza
 Havza
 hay
 haya
-hayâ
+haya
 hayal
 hayalat
 hayalbaz
@@ -30416,13 +30415,13 @@ hayalen
 hayalet
 hayal gücü
 hayalhane
-hayâlı
-hayalî
-hayalî fener
-hayalî ihracat
-hayalîleşme
-hayalîleşmek
-hayalîlik
+hayalı
+hayali
+hayali fener
+hayali ihracat
+hayalileşme
+hayalileşmek
+hayalilik
 hayal kırıklığı
 hayalleme
 hayallemek
@@ -30434,10 +30433,10 @@ hayalperestlik
 hayalperver
 hayalperverlik
 hayalsiz
-hayâsız
-hayâsızca
-hayâsızcasına
-hayâsızlık
+hayasız
+hayasızca
+hayasızcasına
+hayasızlık
 hayat
 hayat adamı
 hayatağacı
@@ -30447,7 +30446,7 @@ hayat dersi
 hayat dolu
 hayat düzeyi
 hayat felsefesi
-hayat hikâyesi
+hayat hikayesi
 hayati
 hayatiyet
 hayatiyetli
@@ -30726,7 +30725,7 @@ hektometre
 hela
 helak
 helal
-helalî
+helali
 helalinden
 helalleşebilme
 helalleşebilmek
@@ -30800,8 +30799,8 @@ hemencek
 hemen hemen
 hemfikir
 hemfikirlik
-hemhâl
-hemhâllik
+hemhal
+hemhallik
 hemhudut
 hemhudutluk
 hemodiyaliz
@@ -30826,8 +30825,8 @@ hendek
 Hendek
 hendese
 hendesi
-hengâm
-hengâme
+hengam
+hengame
 hentbol
 hentbolcu
 hentbolculuk
@@ -30865,9 +30864,9 @@ hergeleci
 hergelecilik
 hergelelik
 her gün
-herhâlde
-her hâlde 
-her hâlükârda
+herhalde
+her halde 
+her halükarda
 herhangi
 herhangi bir
 herhangi biri
@@ -30939,8 +30938,8 @@ heterotrof
 heterotrofi
 hevenk
 heves
-heveskâr
-heveskârlık
+heveskar
+heveskarlık
 heveslendirme
 heveslendirmek
 hevesleniş
@@ -31193,7 +31192,7 @@ hibritleşme
 hibritleşmek
 hicap
 hicaz
-hicazkâr
+hicazkar
 hiciv
 hicran
 hicret
@@ -31289,20 +31288,20 @@ higrotropizm
 hijyen
 hijyenik
 hijyeniklik
-hikâye
-hikâye birleşik zamanı
-hikâyeci
-hikâyecik
-hikâyecilik
-hikâyeleme
-hikâyelemek
-hikâyeleştirme
-hikâyeleştirmek
-hikâyeli
-hikâyemsi
-hikâyesiz
+hikaye
+hikaye birleşik zamanı
+hikayeci
+hikayecik
+hikayecilik
+hikayeleme
+hikayelemek
+hikayeleştirme
+hikayeleştirmek
+hikayeli
+hikayemsi
+hikayesiz
 hikem
-hikemî
+hikemi
 hikmet
 hikmetli
 hilaf
@@ -31313,7 +31312,7 @@ hilafıhakikat
 hilafsız
 hilafsızca
 hilal
-hilalî
+hilali
 hilat
 hile
 hilebaz
@@ -31321,8 +31320,8 @@ hilebazlık
 hileci
 hilecilik
 hileişeriye
-hilekâr
-hilekârlık
+hilekar
+hilekarlık
 hileli
 hileli iflas
 hilesiz
@@ -31463,9 +31462,9 @@ hissettirme
 hissettirmek
 hissettirtme
 hissettirtmek
-hissî
+hissi
 hissikablelvuku
-hissîlik
+hissilik
 hissiselim
 hissiyat
 hissiz
@@ -31512,8 +31511,8 @@ hizmetçilik
 hizmete özel
 hizmet eri
 hizmet içi eğitim
-hizmetkâr
-hizmetkârlık
+hizmetkar
+hizmetkarlık
 hizmetli
 hizmetlilik
 Ho
@@ -31526,8 +31525,8 @@ hodangiller
 hodbehot
 hodbin
 hodbinlik
-hodkâm
-hodkâmlık
+hodkam
+hodkamlık
 hodpesent
 hodpesentlik
 hodri
@@ -31771,8 +31770,8 @@ hukuksuz
 hukuksuzluk
 hulul
 hulus
-huluskâr
-huluskârlık
+huluskar
+huluskarlık
 humar
 humbara
 humbaracı
@@ -31815,7 +31814,7 @@ huruşan
 husuf
 husul
 husumet
-husumetkâr
+husumetkar
 husus
 hususi
 hususilik
@@ -31878,13 +31877,13 @@ hükmi
 hükmi şahsiyet
 hükmolunma
 hükmolunmak
-hükûmet
-hükûmet darbesi
-hükûmet erkânı
-hükûmet kapısı
-hükûmet komiseri
-hükûmet konağı
-hükûmet merkezi
+hük ümet
+hük ümet darbesi
+hük ümet erkanı
+hük ümet kapısı
+hük ümet komiseri
+hük ümet konağı
+hük ümet merkezi
 hüküm
 hükümdar
 hükümdarlık
@@ -31923,8 +31922,8 @@ hüngürdeme
 hüngürdemek
 hüngür hüngür
 hüngürtü
-hünkâr
-hünkârbeğendi
+hünkar
+hünkarbeğendi
 hünnap
 hünnapgiller
 hünsa
@@ -31933,9 +31932,9 @@ hürle
 hürlük
 hürmet
 hürmeten
-hürmetkâr
-hürmetkârane
-hürmetkârlık
+hürmetkar
+hürmetkarane
+hürmetkarlık
 hürmetli
 hürmetlice
 hürmetsiz
@@ -31952,8 +31951,8 @@ hür teşebbüs
 hürya
 hüryemez
 hüseyni
-hüsnühâl
-hüsnühâl kâğıdı
+hüsnühal
+hüsnühal kağıdı
 hüsnühat
 hüsnükabul
 hüsnükuruntu
@@ -32002,7 +32001,7 @@ iare
 iaşe
 iaşe ve ibate
 ibadet
-ibadetgâh
+ibadetgah
 ibadethane
 ibadullah
 ibare
@@ -32033,7 +32032,7 @@ ibraz
 ibre
 ibret
 ibretamiz
-ibretiâlem
+ibretialem
 ibretlik
 ibrik
 ibrikçi
@@ -32189,7 +32188,7 @@ iç kafiye
 iç kapak
 iç kavuz
 içki
-içki âlemi
+içki alemi
 içkici
 içkicilik
 içkili
@@ -32492,8 +32491,8 @@ ihlassızlık
 ihmal
 ihmalci
 ihmalcilik
-ihmalkâr
-ihmalkârlık
+ihmalkar
+ihmalkarlık
 ihracat
 ihracatçı
 ihracatçılık
@@ -32511,9 +32510,9 @@ ihtar
 ihtarname
 ihtida
 ihtifal
-ihtikâr
-ihtikârcı
-ihtikârcılık
+ihtikar
+ihtikarcı
+ihtikarcılık
 ihtilaç
 ihtilaf
 ihtilal
@@ -32523,7 +32522,7 @@ ihtilam
 ihtilas
 ihtilat
 ihtimal
-ihtimalî
+ihtimali
 ihtimaliyet hesabı
 ihtimaller hesabı
 ihtimalli
@@ -32580,8 +32579,8 @@ ihtiyaten
 ihtiyati
 ihtiyatilik
 ihtiyati tedbir
-ihtiyatkâr
-ihtiyatkârlık
+ihtiyatkar
+ihtiyatkarlık
 ihtiyat kuvvetleri
 ihtiyatlı
 ihtiyatlıca
@@ -32598,10 +32597,10 @@ ihzar müzekkeresi
 ikame
 ikame mal
 ikamet
-ikametgâh
-ikametgâh ilmühaberi
-ikametgâh kâğıdı
-ikametgâhsız
+ikametgah
+ikametgah ilmühaberi
+ikametgah kağıdı
+ikametgahsız
 ikaz
 ikaz lambası
 ikaz yeleği
@@ -32794,7 +32793,7 @@ ilah
 İlah
 ilahe
 ilahi 
-İlahî
+İlahi
 ilahiyat
 ilahiyatçı
 ilahiyatçılık
@@ -33026,7 +33025,7 @@ ilk gösteri
 ilk göz ağrısı
 ilkgüz
 ilkin
-ilk kânun
+ilk kanun
 ilklik
 ilk mektep
 ilkokul
@@ -33054,7 +33053,7 @@ illet
 illetli
 illetlilik
 ille velakin
-illî
+illi
 illiyet
 illüstrasyon
 illüzyon
@@ -33065,9 +33064,9 @@ ilmek
 ilmek
 ilmekleme
 ilmeklemek
-ilmî
+ilmi
 ilmiahlak
-ilmihâl
+ilmihal
 ilmik
 ilmikleme
 ilmiklemek
@@ -33075,7 +33074,7 @@ ilmiklenme
 ilmiklenmek
 ilmikli
 ilmiksiz
-ilmîlik
+ilmilik
 ilmiye
 ilmühaber
 ilsizleşme
@@ -33084,7 +33083,7 @@ iltibas
 iltica
 iltica hakkı
 iltifat
-iltifatkâr
+iltifatkar
 iltifatlı
 iltihabi
 iltihak
@@ -33123,8 +33122,8 @@ imamet
 imamevi
 imamkayığı
 imamlık
-imam nikâhı
-imam nikâhlı
+imam nikahı
+imam nikahlı
 İmamoğlu 
 imamsuyu
 iman
@@ -33167,14 +33166,14 @@ imgesellik
 imha
 imha ateşi
 imitasyon
-imkân
-imkânsız
-imkânsızca
-imkânsızlaşma
-imkânsızlaşmak
-imkânsızlaştırma
-imkânsızlaştırmak
-imkânsızlık
+imkan
+imkansız
+imkansızca
+imkansızlaşma
+imkansızlaşmak
+imkansızlaştırma
+imkansızlaştırmak
+imkansızlık
 imla
 imleç
 imlek
@@ -33228,7 +33227,7 @@ imza
 imza beyti 
 imza çizelgesi
 imza günü
-imza kâğıdı
+imza kağıdı
 imzalama
 imzalamak
 imzalanış
@@ -33502,7 +33501,7 @@ inhisarcılık
 inhitat
 ini
 inik
-inikâs
+inikas
 inikat
 inik deniz
 inildeme
@@ -33524,9 +33523,9 @@ inişli yokuşlu
 iniş takımları
 iniverme
 inivermek
-inkâr
-inkârcı
-inkârcılık
+inkar
+inkarcı
+inkarcılık
 inkıbaz
 inkılap
 inkılapçı
@@ -33580,7 +33579,7 @@ insancıllık
 insan coğrafyası
 insan evladı
 insangiller
-insan hâli
+insan hali
 insanımsı
 insanımsılar
 insanımsılık
@@ -33598,7 +33597,7 @@ insanlaşma
 insanlaşmak
 insanlı
 insanlık
-insanlık hâli
+insanlık hali
 insanlık suçu
 insanlılık
 insanmerkezci
@@ -33844,7 +33843,7 @@ irsal
 irsaliye
 irsaliye faturası
 irsen
-irsî
+irsi
 irsiyet
 irşat
 irtibat
@@ -33860,7 +33859,7 @@ irtifa
 irtifak
 irtifak hakkı
 irtihal
-irtikâp
+irtikap
 irtisam
 irtişa
 is
@@ -33891,7 +33890,7 @@ isimden türeme  isim
 isim durumu
 isim gövdesi
 isim hakkı
-isim hâli
+isim hali
 isim kökü
 isimlendirebilme
 isimlendirebilmek
@@ -33920,9 +33919,9 @@ isim tabanı
 isim tamlaması
 iskalarya
 iskambil
-iskambil kâğıdı
-iskân
-iskân belgesi
+iskambil kağıdı
+iskan
+iskan belgesi
 iskandil
 İskandinav
 İskandinav dilleri
@@ -33955,7 +33954,7 @@ iskorçina
 iskorpit
 iskorpitgiller
 iskota
-İslâhiye 
+İslahiye 
 İslam
 İslamcı
 İslamcılık
@@ -34170,10 +34169,10 @@ istihdaf
 istihdam
 istihfaf
 istihkak
-istihkâm
-istihkâmcı 
-istihkâmcılık
-istihkâm sınıfı
+istihkam
+istihkamcı 
+istihkamcılık
+istihkam sınıfı
 istihkar
 istihlak
 istihraç
@@ -34219,9 +34218,9 @@ istinaf mahkemesi
 istinas
 istinat
 istinat duvarı
-istinatgâh
+istinatgah
 istinga
-istinkâf
+istinkaf
 istinsah
 istintaç
 istintak
@@ -34255,8 +34254,8 @@ istrongilos
 isyan
 isyancı
 isyancılık
-isyankâr
-isyankârlık
+isyankar
+isyankarlık
 iş
 iş adamı
 iş adamlığı
@@ -34359,7 +34358,7 @@ işittirebilmek
 işittirme
 işittirmek
 iş kadını
-işkâl
+işkal
 iş kazası
 işkembe
 işkembeci
@@ -34492,8 +34491,8 @@ it
 ita
 ita amiri
 itaat
-itaatkâr
-itaatkârlık
+itaatkar
+itaatkarlık
 itaatli
 itaatlilik
 itaatsiz
@@ -34565,8 +34564,8 @@ iticilik
 itidal
 itidalli
 itidal sahibi
-itikâf
-itikâl
+itikaf
+itikal
 itikat
 itikatlı
 itikatlılık
@@ -34684,8 +34683,8 @@ iyiden iyiye
 İyidere 
 iyi gün
 iyi gün dostu
-iyi hâl
-iyi hâl belgesi
+iyi hal
+iyi hal belgesi
 iyi huylu
 iyi huyluluk
 iyi kalpli
@@ -35405,7 +35404,7 @@ kabahatlilik
 kabahatsiz
 kabahatsizlik
 kabak
-kaba kâğıt
+kaba kağıt
 kabak çekirdeği
 kabakçı
 kabakçılık
@@ -35482,11 +35481,11 @@ Kabataş
 kaba tekne
 kaba yapı
 kaba yel
-Kâbe
+Kabe
 kabız
 kabızlık
 kabil
-kabîl
+kabil
 kabile
 kabiliyet
 kabiliyetli
@@ -35549,9 +35548,9 @@ kabul yeri
 kaburga
 kaburgalı
 kaburgasız
-kâbus
-kâbuslu
-kâbussuz
+kabus
+kabuslu
+kabussuz
 kabza
 kabzımal
 kabzımallık
@@ -35725,7 +35724,7 @@ kadifeleştirmek
 kadifelik
 kadim
 kadim dost
-kadimî
+kadimi
 kadir
 kadir 
 kadirbilir
@@ -35776,7 +35775,7 @@ kafadaş
 kafadaşlık
 kafa dengi
 kafa işçisi
-kafa kâğıdı
+kafa kağıdı
 kafa koçanı
 kafakol
 kafalı
@@ -35814,14 +35813,14 @@ kafesli
 kafes teli
 kafeşantan
 kafeterya
-kâffesi
-kâfi
+kaffesi
+kafi
 kafile
-kâfir
-kâfiristan
-kâfirleşme
-kâfirleşmek
-kâfirlik
+kafir
+kafiristan
+kafirleşme
+kafirleşmek
+kafirlik
 kafiye
 kafiyeli
 kafiyesiz
@@ -35830,33 +35829,33 @@ Kafkas tavuğu
 kaftan
 kaftancı
 kaftancılık
-kâfur
-kâfur ağacı
-kâgir
+kafur
+kafur ağacı
+kagir
 kağan
 kağanlık
-kâğıdımsı
-kâğıt
-kâğıt ağacı
-kâğıt balığı
-kâğıt balığıgiller
-kâğıtçı
-kâğıtçılık
-kâğıt dutu
-Kâğıthane 
-kâğıt helvacı
-kâğıt helvası
-kâğıt kebabı
-kâğıtlama
-kâğıtlamak
-kâğıtlanma
-kâğıtlanmak
-kâğıtlı
-kâğıtlık
-kâğıt oyunu
-kâğıt para
-kâğıtsı
-kâğıt torba
+kağıdımsı
+kağıt
+kağıt ağacı
+kağıt balığı
+kağıt balığıgiller
+kağıtçı
+kağıtçılık
+kağıt dutu
+Kağıthane 
+kağıt helvacı
+kağıt helvası
+kağıt kebabı
+kağıtlama
+kağıtlamak
+kağıtlanma
+kağıtlanmak
+kağıtlı
+kağıtlık
+kağıt oyunu
+kağıt para
+kağıtsı
+kağıt torba
 Kağızman 
 kağnı
 kağnı arabası
@@ -35864,16 +35863,16 @@ kağnı mazısı
 kağşak
 kağşama
 kağşamak
-kâh
+kah
 kahhar
 kahır
 kahırlanma
 kahırlanmak
 kahırlı
-kâhil
-kâhillik
-kâhin
-kâhinlik
+kahil
+kahillik
+kahin
+kahinlik
 kahir
 kahir ekseriyet
 kahkaha
@@ -35913,7 +35912,7 @@ kahrolma
 kahrolmak
 kahrolsun
 kahroluş
-Kâhta 
+Kahta 
 kahvaltı
 kahvaltıcı
 kahvaltılık
@@ -35941,8 +35940,8 @@ kahverengimsi
 kahve tabağı
 kahve takımı
 kahve tepsisi
-kâhya
-kâhyalık
+kahya
+kahyalık
 kaide
 kaideci
 kaidecilik
@@ -35954,8 +35953,8 @@ kaim
 kaime
 kaimelik
 kaimlik
-kâin
-kâinat
+kain
+kainat
 kak
 kaka
 kakaç
@@ -36007,8 +36006,8 @@ kaktüs
 kaktüsgiller
 kakule
 kakuleli
-kâkül
-kâküllü
+kakül
+kaküllü
 kal 
 kal
 kala
@@ -36072,7 +36071,7 @@ kalaylı
 kalaysı
 kalaysız
 kalben
-kalbî
+kalbi
 kalbi kırık
 kalbi kırıklık
 kalbiselim
@@ -36157,8 +36156,8 @@ kalem erbabı
 kalemis
 kalem işi
 kalem kalem
-kalemkâr
-kalemkârlık
+kalemkar
+kalemkarlık
 kalem kaşlı
 kalem kavgası
 kalem kömürü
@@ -36176,7 +36175,7 @@ kalem şuarası
 kalemtıraş
 kalender
 kalenderce
-kalenderî
+kalenderi
 Kalenderiye
 kalenderleşme
 kalenderleşmek
@@ -36374,7 +36373,7 @@ kalp çarpıntısı
 kalpçi
 kalp çizgesi
 kalp çizgesi yöntemi
-kalpgâh
+kalpgah
 kalp hastası
 kalp kası
 kalp krizi
@@ -36417,7 +36416,7 @@ kalyon
 kalyoncu
 kalyonculuk
 kam 
-kâm
+kam
 kama
 kamacı
 kamacılık
@@ -36479,12 +36478,12 @@ kamera
 kameraman
 kamera şakası
 kamer balığı
-kamerî
-kamerî ay
-kamerî takvim
+kameri
+kameri ay
+kameri takvim
 kameriye
 kameriyeli
-kamerî yıl
+kameri yıl
 kamersiz
 Kamerunlu
 kamet
@@ -36499,9 +36498,9 @@ kamışlık
 kamışsı
 kamikaze
 kamikazelik
-kâmil
-kâmilen
-kâmillik
+kamil
+kamilen
+kamillik
 kamineto
 kamkaz
 kamp
@@ -36568,8 +36567,8 @@ kamyonsuz
 kan
 kana
 kanaat
-kanaatkâr
-kanaatkârlık
+kanaatkar
+kanaatkarlık
 kanaatli
 kanaatlilik
 kanaatsiz
@@ -36839,7 +36838,7 @@ kantoculuk
 kanton
 kantonit
 kanun 
-kânun
+kanun
 kanun adamı
 kanuncu
 kanunculuk
@@ -36867,8 +36866,8 @@ kanun tasarısı
 kanun teklifi
 kan unu
 kanunuesasi
-kânunuevvel
-kânunusani
+kanunuevvel
+kanunusani
 kan uyuşmazlığı
 kanyak
 kanyon
@@ -36882,7 +36881,7 @@ kaos
 kaotik
 kap
 kap
-kâp
+kap
 kapak
 kapak bıçkıcısı
 kapak bıçkısı
@@ -36981,7 +36980,7 @@ kapı çuhadarı
 kapıda
 kapı duvar
 kapı halkı
-kapı kâhyası
+kapı kahyası
 kapı kapamaca
 kapı karşı komşu
 kapı kethüdası
@@ -37133,7 +37132,7 @@ kaputluk
 kapuz
 kapüşon
 kar 
-kâr
+kar
 kara
 karaağaç
 karaağaçgiller
@@ -37345,7 +37344,7 @@ kara pazar
 Karapınar 
 Karapürçek
 karar
-karargâh
+karargah
 kararınca
 kararış
 kararıverme
@@ -37463,7 +37462,7 @@ karbonik asit
 karbonil
 karbonit
 karbonizasyon
-karbon kâğıdı
+karbon kağıdı
 karbonlama
 karbonlamak
 karbonlaşma
@@ -37553,12 +37552,12 @@ kargış
 kargışlama
 kargışlamak
 kargışlı
-kârgir
+kargir
 kargo
 kargocu
 kargoculuk
 karha
-kâr haddi
+kar haddi
 kar helvası
 karı
 karı ağızlı
@@ -37690,13 +37689,13 @@ karlanma
 karlanmak
 karlanmaz
 karlı
-kârlı
+karlı
 karlıca
-kârlıca
-kârlı iş
+karlıca
+karlı iş
 karlık
 karlılık
-kârlılık
+karlılık
 Karlıova 
 Karluk
 karma
@@ -37715,7 +37714,7 @@ karmanyola
 karmanyolacı
 karmanyolacılık
 karma okul
-kâr marjı
+kar marjı
 karma sergi
 karmaşa
 karmaşık
@@ -37731,7 +37730,7 @@ karmaştırma
 karmaştırmak
 karma tamlama
 karma tren
-kâr merkezi
+kar merkezi
 karmık
 karnabahar
 karnabit
@@ -37756,8 +37755,8 @@ karnivor
 karo
 karoça
 karoser
-kâr payı
-kâr paylaşımı
+kar payı
+kar paylaşımı
 karpit
 karpit lambası
 karpuz
@@ -37774,10 +37773,10 @@ karsak
 karsanbaç
 kar sapanı
 karsız
-kârsız
-kârsızca
+karsız
+karsızca
 karsızlık
-kârsızlık
+karsızlık
 Karslı
 Karslılık
 karst
@@ -37939,9 +37938,9 @@ kasavetli
 kasavetsiz
 kasavetsizlik
 kas doku
-kâse
-kâsecik
-kâseifağfur
+kase
+kasecik
+kaseifağfur
 kasem
 kaset
 kasetçalar
@@ -38058,7 +38057,7 @@ kaşalot
 kaşan
 kaşandırma
 kaşandırmak
-kâşane
+kaşane
 kaşanma
 kaşanmak
 kaşan yeri
@@ -38116,7 +38115,7 @@ kaşıttırma
 kaşıttırmak
 kaşıyabilme
 kaşıyabilmek
-kâşif
+kaşif
 kaş jölesi
 kaşkariko
 kaşkaval
@@ -38253,15 +38252,15 @@ katı yumurta
 katı yürekli
 katı yüreklilik
 kati
-kâtibe
-kâtibiadil
+katibe
+katibiadil
 katil
 katil 
 katileşme
 katileşmek
 katillik
-kâtip
-kâtiplik
+katip
+katiplik
 kat irtifakı
 kati teminat
 katiyen
@@ -38447,7 +38446,7 @@ kavlık
 kavlince
 kavlükarar
 kav mantarı
-kavmî
+kavmi
 kavmiyat
 kavmiyet
 kavmiyetçi
@@ -38730,7 +38729,7 @@ kaymakam
 kaymakamlık
 kaymakçı
 kaymakçılık
-kaymak kâğıdı
+kaymak kağıdı
 kaymaklanma
 kaymaklanmak
 kaymaklı
@@ -38920,7 +38919,7 @@ kazıma
 kazımak
 kazıma resim
 kazımık
-Kâzımkarabekir 
+Kazımkarabekir 
 kazınma
 kazınmak
 kazıntı
@@ -39142,7 +39141,7 @@ kelimesi kelimesine
 kelimesiz
 kelime türü
 kelime vurgusu
-kel kâhya
+kel kahya
 Kelkit 
 kelle
 kelleci
@@ -39156,7 +39155,7 @@ keloğlan
 Keloğlan
 kem
 Kemah 
-kemakân
+kemakan
 kemal
 kemaliafiyet
 Kemalist
@@ -39263,7 +39262,7 @@ kendi adına
 kendi başına
 kendi beslek
 kendigelen
-kendi hâlinde
+kendi halinde
 kendi kendine
 kendiliğinden
 kendiliğindenlik
@@ -39449,7 +39448,7 @@ kesatlaşmak
 kesatlık
 kesbetme
 kesbetmek
-kesbî
+kesbi
 kese
 kesebilme
 kesebilmek
@@ -39458,7 +39457,7 @@ kese çiçeği
 kesedar
 kesedarlık
 kesek
-kese kâğıdı
+kese kağıdı
 keseklenme
 keseklenmek
 kesekli
@@ -39683,8 +39682,8 @@ Kevser
 keyfekeder
 keyfetme
 keyfetmek
-keyfî
-keyfîlik
+keyfi
+keyfilik
 keyfince
 keyfi sıra
 keyfi tıkırında
@@ -39693,7 +39692,7 @@ keyfiyet
 keyfi yolunda
 keyif
 keyif ehli
-keyif hâli
+keyif hali
 keyiflendirme
 keyiflendirmek
 keyiflenme
@@ -40708,7 +40707,7 @@ kibar
 kibarca
 kibarcasına
 kibar düşkünü
-kibarlar âlemi
+kibarlar alemi
 kibarlaşma
 kibarlaşmak
 kibarlaştırma
@@ -41173,7 +41172,7 @@ klozet
 klüz
 koala
 koalisyon
-koalisyon hükûmeti
+koalisyon hük ümeti
 koaptör
 kobalt
 kobalt bombası
@@ -41957,7 +41956,7 @@ kopyacı
 kopyacılık
 kopya defteri
 kopya film
-kopya kâğıdı
+kopya kağıdı
 kopya kalemi
 kopyalama
 kopyalamak
@@ -42048,7 +42047,7 @@ kornişçilik
 kornişon
 korno
 koro
-koro hâlinde
+koro halinde
 korona
 koroner
 korozif
@@ -42798,7 +42797,7 @@ közleşme
 közleşmek
 Kr
 kraça
-kraft kâğıdı
+kraft kağıdı
 kraker
 kral
 kralcı
@@ -42861,7 +42860,7 @@ krep
 krepdöşin
 kreplin
 krepon
-krepon kâğıdı
+krepon kağıdı
 krepsaten
 kreş
 kreşendo
@@ -43025,15 +43024,15 @@ kuduz otu
 kudüm
 kudümzen
 kudümzenlik
-kûfi
+k üfi
 kuğu
-kûhi
+k ühi
 kuintet
 kuka
 kukla
 kuklacı
 kuklacılık
-kukla hükûmet
+kukla hük ümet
 kuklalık
 kukla oyunu
 kukla tiyatrosu
@@ -43093,7 +43092,7 @@ kul hakkı
 kulis
 kulis çalışması
 kulis faaliyeti
-kul kâhyası
+kul kahyası
 kul kethüdası
 kullanabilme
 kullanabilmek
@@ -43607,7 +43606,7 @@ kurutma
 kurutmaç
 kurutmak
 kurutma kabı
-kurutma kâğıdı
+kurutma kağıdı
 kurutmalı
 kurutmalık
 kurutma makinesi
@@ -43710,7 +43709,7 @@ kuşçuluk
 kuşdili
 kuş dili 
 kuşe
-kuşe kâğıdı
+kuşe kağıdı
 kuşekmeği
 kuşet
 kuşetli
@@ -43846,7 +43845,7 @@ kuvvetlenmek
 kuvvetli
 kuvvetlice
 kuvvetlilik
-kuvvetli rüzgâr
+kuvvetli rüzgar
 kuvvet macunu
 kuvvetölçer
 kuvvetsiz
@@ -44163,7 +44162,7 @@ kümültü
 kümülüs
 küncü
 künde
-kündekâri
+kündekari
 kündeleme
 kündelemek
 künefe
@@ -44193,7 +44192,7 @@ küratör
 kürdan
 kürdanlık
 kürdi
-kürdilihicazkâr
+kürdilihicazkar
 küre
 Küre
 kürek
@@ -44343,14 +44342,14 @@ laboratuvar muayenesi
 labrador
 labros
 lacerem
-laciverdî
+laciverdi
 laciverdimsi
 lacivert
 lacivertlik
 lacivert pasaport
 laciverttaş
 laçın
-Lâçin 
+Laçin 
 laçka
 laçkalaşma
 laçkalaşmak
@@ -44364,9 +44363,9 @@ ladeslenme
 ladeslenmek
 ladesli
 lades oyunu
-Lâdik
+Ladik
 ladin
-ladinî
+ladini
 ladino
 laedri
 laedriye
@@ -44478,7 +44477,7 @@ lalettayin
 lalezar
 lalüebkem
 lam 
-lâm
+lam
 lama
 lamacı
 lamacılık
@@ -44496,8 +44495,8 @@ lambalık
 lambasız
 lambri
 lame
-lamekân
-lamekân takımı
+lamekan
+lamekan takımı
 lamel
 lamelif
 laminant
@@ -44537,7 +44536,7 @@ Lapon
 Laponca
 Laponyalı
 lappadak
-Lâpseki 
+Lapseki 
 larenjit
 larghetto
 largo
@@ -44936,7 +44935,7 @@ lirik
 lirik şiir
 lirizm
 lisan
-lisanıhâl
+lisanıhal
 lisanımünasip
 lisani
 lisaniyat
@@ -45166,9 +45165,9 @@ lütfetmek
 lütfeyleme
 lütfeylemek
 lütuf
-lütufkâr
-lütufkârane
-lütufkârlık
+lütufkar
+lütufkarane
+lütufkarlık
 lüzucet
 lüzuci
 lüzum
@@ -45296,11 +45295,11 @@ maden damarı
 Maden Devri
 maden filizi
 maden gazı
-madenî
+madeni
 madenimsi
-madenî para
-madenî yağ
-madenî yün
+madeni para
+madeni yağ
+madeni yün
 madenkırmız
 maden kirası
 maden kömürü
@@ -45379,7 +45378,7 @@ mağfur
 mağlubiyet
 mağlup
 mağmum
-Mağribî
+Mağribi
 mağrip
 Mağrip
 mağrur
@@ -45407,12 +45406,12 @@ mahalle mektebi
 mahalle muhtarı
 mahallenin delisi
 mahallevari
-mahallî
-mahallî idare
-mahallîleşme
-mahallîleşmek
-mahallîlik
-mahallî seçim
+mahalli
+mahalli idare
+mahallileşme
+mahallileşmek
+mahallilik
+mahalli seçim
 maharet
 maharetli
 maharetlilik
@@ -45453,12 +45452,12 @@ mahkemeleşmek
 mahkemeli
 mahkemelik
 mahkeme masrafı
-mahkûk
-mahkûkât
-mahkûm
-mahkûmane
-mahkûmiyet
-mahkûmluk
+mahk ük
+mahk ükat
+mahk üm
+mahk ümane
+mahk ümiyet
+mahk ümluk
 mahlas
 mahlep
 mahluk
@@ -45510,7 +45509,7 @@ mahsusluk
 mahsustan
 mahşer
 mahşer günü
-mahşerî
+mahşeri
 mahşerleşme
 mahşerleşmek
 mahşer midillisi
@@ -45581,7 +45580,7 @@ makas
 makasçı
 makasçılık
 makas hakkı
-makaskâr
+makaskar
 makaslama
 makaslamak
 makaslanma
@@ -45655,7 +45654,7 @@ maktul
 makul
 makule
 makullük
-makûs
+mak üs
 makyaj
 makyajcı
 makyajcılık
@@ -45712,7 +45711,7 @@ mali belge
 mali cebir
 malihülya
 malik
-malikâne
+malikane
 Maliki
 Malikilik
 malikiyet
@@ -45862,13 +45861,13 @@ mangırsız
 mangiz
 mango
 mani 
-mâni
-mânia
-mânialı
-mâniasız
-mânici
+mani
+mania
+manialı
+maniasız
+manici
 Manici
-mânicilik
+manicilik
 Manicilik
 manidar
 manidarlık
@@ -46156,7 +46155,7 @@ masajcılık
 masajlama
 masajlamak
 masal
-masal âlemi
+masal alemi
 masalcı
 masalcılık
 masalımsı
@@ -46254,7 +46253,7 @@ maşalık
 maşallah
 maşatlık
 maşer
-maşerî
+maşeri
 maşlah
 maşrapa
 maşrık
@@ -46304,7 +46303,7 @@ matrakçı
 matriarkal
 matriks
 matris
-matris kâğıdı
+matris kağıdı
 matruş
 matruşka
 matruşluk
@@ -46411,7 +46410,7 @@ mazbata muharriri
 mazbut
 mazbutluk
 mazeret
-mazeret kâğıdı
+mazeret kağıdı
 mazeretli
 mazeretsiz
 mazeretsizlik
@@ -46509,13 +46508,13 @@ meddah
 meddahlık
 medeni
 medenici
-medeni hâl
+medeni hal
 medenileşme
 medenileşmek
 medenileştirme
 medenileştirmek
 medenilik
-medeni nikâh
+medeni nikah
 medeniyet
 medeniyetçi
 medeniyetçilik
@@ -46550,9 +46549,9 @@ mefharet
 mefhum
 mefhumcu
 mefhumculuk
-mefkûre
-mefkûreci
-mefkûrecilik
+mefk üre
+mefk üreci
+mefk ürecilik
 mefluç
 mefret
 mefruş
@@ -46596,11 +46595,11 @@ mehter musikisi
 mehter müziği
 mehter takımı
 mehter yürüyüşü
-mekân
-mekân akustiği
-mekâncı
-mekâncılık
-mekân grupları
+mekan
+mekan akustiği
+mekancı
+mekancılık
+mekan grupları
 mekanik
 mekanikçi
 mekanikçilik
@@ -46612,14 +46611,14 @@ mekanize birliği
 mekanizm
 mekanizma
 mekanizmalı
-mekân zarfı
+mekan zarfı
 meke
 mekik
 mekik diplomasisi
 mekik oyası
-mekkâre
-mekkâreci
-mekkârecilik
+mekkare
+mekkareci
+mekkarecilik
 meknuz
 mekruh
 mekruhluk
@@ -46654,7 +46653,7 @@ melce
 melek
 meleke
 melek otu
-melekût
+melek üt
 meleme
 melemek
 meles
@@ -46940,20 +46939,20 @@ merkezce
 merkezci
 merkezcil
 merkezcilik
-merkezî
-merkezî ısıtma
-merkezî idare
-merkezîleşme
-merkezîleşmek
-merkezîleştirme
-merkezîleştirmek
-merkezîlik
-merkezî ülke
+merkezi
+merkezi ısıtma
+merkezi idare
+merkezileşme
+merkezileşmek
+merkezileştirme
+merkezileştirmek
+merkezilik
+merkezi ülke
 merkeziyet
 merkeziyetçi
 merkeziyetçilik
-merkezî yıkama
-merkezî yönetim
+merkezi yıkama
+merkezi yönetim
 merkezkaç
 merkezkaç kuvvet
 merkezkaçlama
@@ -46968,7 +46967,7 @@ merkezleştirmek
 merkez parti
 merkez üs
 merkum
-merkûp
+merk üp
 Merkür
 merlanos
 mermer
@@ -47011,7 +47010,7 @@ meryemanaeldiveni
 meryemanakandili
 meryemanakuşağı
 meryem pelesengi
-merzengûş
+merzeng üş
 Merzifon 
 mesabe
 mesabesinde
@@ -47045,10 +47044,10 @@ mesirelik
 mesken
 meskenet
 Mesket Türkleri
-meskûkât
-meskûn
-meskûn mahal
-meskût
+mesk ükat
+mesk ün
+mesk ün mahal
+mesk üt
 meslek
 mesleki
 meslek içi eğitim
@@ -47113,8 +47112,8 @@ meşin
 meşin suratlı
 meşin yuvarlak
 meşk
-meşkûk
-meşkûr
+meşk ük
+meşk ür
 meşrep
 meşru
 meşrubat
@@ -47203,9 +47202,9 @@ metil
 metilen
 metilik
 metin
-metîn 
+metin 
 metinler arasılık
-metînlik
+metinlik
 metinsel
 metis
 metneryum
@@ -47241,7 +47240,7 @@ metropolit
 metropoliten
 metroseksüel
 metruk
-metrukât
+metrukat
 metruke
 metrukiyet
 mevali
@@ -47418,7 +47417,7 @@ meziyetli
 meziyetlilik
 meziyetsiz
 meziyetsizlik
-mezkûr
+mezk ür
 mezmur
 mezoderm
 mezon
@@ -47599,11 +47598,11 @@ mihrap
 mihver
 mika
 mikado
-Mikâil
+Mikail
 mikalı
 mikalı cam
 mikamsı
-mikâp
+mikap
 mikaşist
 mikoloji
 mikolojik
@@ -47656,7 +47655,7 @@ mil
 miladi
 miladi takvim
 miladi tarih
-Milâs 
+Milas 
 milat
 milattan önce
 milattan sonra
@@ -47701,35 +47700,35 @@ millettaş
 milletvekili
 milletvekilliği
 milli
-millî
-millîci
-millîcilik
-millî değer
-millî dil
-millî eğitim
-millî ekonomi
-millî gelir
-millî güvenlik
-millî hüviyet
-millî iktisat
-millî irade
-millî kimlik
-millîleşme
-millîleşmek
-millîleştirilme
-millîleştirilmek
-millîleştirme
-millîleştirmek
-millîlik
-millî marş
-Millî Misak 
-millî mücadele
-Millî Mücadele
-millî müdafaa
-millî park
-millî savunma
-millî takım
-millî varlık
+milli
+millici
+millicilik
+milli değer
+milli dil
+milli eğitim
+milli ekonomi
+milli gelir
+milli güvenlik
+milli hüviyet
+milli iktisat
+milli irade
+milli kimlik
+millileşme
+millileşmek
+millileştirilme
+millileştirilmek
+millileştirme
+millileştirmek
+millilik
+milli marş
+Milli Misak 
+milli mücadele
+Milli Mücadele
+milli müdafaa
+milli park
+milli savunma
+milli takım
+milli varlık
 milliyet
 milliyetçi
 milliyetçilik
@@ -47854,10 +47853,10 @@ mirasçılık
 mirasyedi
 mirasyedilik
 mirat
-mirî
-mirîci
-mirî kâtibi
-mirî mal
+miri
+mirici
+miri katibi
+miri mal
 mirliva
 mirlivalık
 mirza
@@ -47870,7 +47869,7 @@ misafirperver
 misafirperverlik
 misafir salonu
 misak
-Misakımillî
+Misakımilli
 misal
 misel
 misil
@@ -48137,7 +48136,7 @@ morumtırak
 moskof
 Moskof
 Moskof camı
-Moskof gâvuru
+Moskof gavuru
 moskofluk
 Moskofluk
 Moskof toprağı
@@ -48314,8 +48313,8 @@ muhacirlik
 muhaddep
 muhaddis
 muhafaza
-muhafazakâr
-muhafazakârlık
+muhafazakar
+muhafazakarlık
 muhafazalı
 muhafazasız
 muhafız
@@ -48337,7 +48336,7 @@ muhallebici
 muhallebicilik
 muhallebi çocuğu
 muhallik
-Muhammedî
+Muhammedi
 muhammen
 muhammes
 muhammin
@@ -48492,7 +48491,7 @@ mukteza
 muktezi
 mukus
 mulaj
-mulaj kâğıdı
+mulaj kağıdı
 multimedya
 multimilyarder
 multimilyoner
@@ -48519,7 +48518,7 @@ mumlaşmak
 mumlayıcı
 mumlu
 mumluk
-mumlu kâğıt
+mumlu kağıt
 mum palmiyesi
 mumsöndü
 mumya
@@ -48647,7 +48646,7 @@ mutabık
 mutabıklık
 mutaf
 mutallaka
-muta nikâhı
+muta nikahı
 mutantan
 mutariza
 mutasarrıf
@@ -48668,7 +48667,7 @@ muteber
 muteberlik
 mutedil
 mutedillik
-mutedil rüzgâr
+mutedil rüzgar
 mutekit
 mutemet
 mutemetlik
@@ -48968,12 +48967,12 @@ müjdelenme
 müjdelenmek
 müjdeli
 müjdelik
-müjgân
-mükâfat
-mükâfaten
-mükâfatlandırma
-mükâfatlandırmak
-mükâleme
+müjgan
+mükafat
+mükafaten
+mükafatlandırma
+mükafatlandırmak
+mükaleme
 mükedder
 mükellef
 mükellefiyet
@@ -49190,8 +49189,8 @@ müsait
 müsaitlik
 müsakkafat
 müsamaha
-müsamahakâr
-müsamahakârlık
+müsamahakar
+müsamahakarlık
 müsamahalı
 müsamahasız
 müsamahasızca 
@@ -49302,7 +49301,7 @@ müstezat
 müsvedde
 müsvedde defteri
 müsveddelik
-müsveddelik kâğıt
+müsveddelik kağıt
 müşabehet
 müşabih
 müşahede
@@ -49396,8 +49395,8 @@ müteheyyiç
 mütekabil
 mütekabiliyet
 mütekait
-mütekâmil
-mütekâsif
+mütekamil
+mütekasif
 mütekebbir
 mütekebbirlik
 mütekellim
@@ -49531,8 +49530,8 @@ müziksiz
 müzisyen
 müzisyenlik
 müzmin
-müzmin bekâr
-müzmin bekârlık
+müzmin bekar
+müzmin bekarlık
 müzminleşme
 müzminleşmek
 müzminleştirme
@@ -49544,7 +49543,7 @@ N
 Na
 naaş
 naat
-nabekâr
+nabekar
 nabız
 nabız yoklaması
 nacak
@@ -49610,12 +49609,12 @@ nakaratlı
 nakaratsız
 nakavt
 nakden
-nakdî
-nakdî ceza
-nakdî kıymet
-nakdî teminat
-nakdî vergi
-nakdî yardım
+nakdi
+nakdi ceza
+nakdi kıymet
+nakdi teminat
+nakdi vergi
+nakdi yardım
 nakıs
 nakıslık
 nakış
@@ -49631,7 +49630,7 @@ nakışsız
 nakız
 nakibüleşraf
 nakil
-nâkil
+nakil
 nakil aracı
 nakil vasıtası
 nakip
@@ -49656,8 +49655,8 @@ nakletme
 nakletmek
 naklettirme
 naklettirmek
-naklî
-naklî mazi
+nakli
+nakli mazi
 nakliyat
 nakliyatçı
 nakliyatçılık
@@ -49691,7 +49690,7 @@ nalçalı
 nalçasız
 naldöken
 nale
-nalekâr
+nalekar
 nalın
 nalıncı
 nalıncı keseri
@@ -49713,7 +49712,7 @@ namaz
 namaz bezi
 namazbozan
 namazcı
-namazgâh
+namazgah
 namazlağı
 namazlık
 namaz niyaz
@@ -49743,8 +49742,8 @@ namus belası
 namus borcu
 namus cinayeti
 namus davası
-namuskâr
-namuskârlık
+namuskar
+namuskarlık
 namuslu
 namusluca
 namusluluk
@@ -49786,7 +49785,7 @@ nansuk
 napalm
 napalm bombası
 nar 
-nâr
+nar
 nara
 nar balinası
 narcıl
@@ -49801,7 +49800,7 @@ nargile
 nargile tütünü
 nargiller
 narh
-nârıbeyza
+narıbeyza
 narin
 narince
 narinlik
@@ -49907,16 +49906,16 @@ nazarlık
 nazenin
 nazeninlik
 nazım
-nâzım
+nazım
 nazım birimi
 Nazımiye 
-nâzım plan
+nazım plan
 nazım türü
 nazır
 nazırlık
 Nazi
 nazik
-nazikâne
+nazikane
 nazikçe
 nazikleşme
 nazikleşmek
@@ -49953,7 +49952,7 @@ Nd
 ne
 ne
 Ne
-ne âlâ
+ne ala
 nebat
 nebatat
 nebatat bahçesi
@@ -50023,11 +50022,11 @@ nefsaniyet
 nefsi müdafaa
 nefsine düşkün
 neft
-neftî
-neftîleşme
-neftîleşmek
-neftîleştirme
-neftîleştirmek
+nefti
+neftileşme
+neftileşmek
+neftileştirme
+neftileştirmek
 neftimsi
 neft yağı
 nefyedilme
@@ -50261,7 +50260,7 @@ nezdinde
 nezetme
 nezetmek
 nezgep
-nez hâli
+nez hali
 nezif
 nezih
 nezihlik
@@ -50290,7 +50289,7 @@ nifak
 nifakçı
 nifakçılık
 nifak tohumu
-nigâhban
+nigahban
 Niğde
 Niğdeli
 Niğdelilik
@@ -50310,20 +50309,20 @@ nihayetsizlik
 nihilist
 nihilizm
 Nijeryalı
-nikâh
-nikâhlama
-nikâhlamak
-nikâhlanış
-nikâhlanma
-nikâhlanmak
-nikâhlayış
-nikâhlı
-nikâhlık
-nikâhlılık
-nikâh memuru
-nikâhsız
-nikâhsızlık
-nikâh şekeri
+nikah
+nikahlama
+nikahlamak
+nikahlanış
+nikahlanma
+nikahlanmak
+nikahlayış
+nikahlı
+nikahlık
+nikahlılık
+nikah memuru
+nikahsız
+nikahsızlık
+nikah şekeri
 nikap
 Nikaragualı
 nikbet
@@ -50390,7 +50389,7 @@ nişan
 nişancı
 nişancılık
 nişane
-nişangâh
+nişangah
 nişangeç
 nişan halkası
 nişanlama
@@ -50655,7 +50654,7 @@ nüfus bilimsel
 nüfus coğrafyası
 nüfus cüzdanı
 nüfusçu
-nüfus kâğıdı
+nüfus kağıdı
 nüfus kaydı
 nüfus kesafeti
 nüfus kütüğü
@@ -50666,7 +50665,7 @@ nüfus sayımı
 nüfus tezkeresi
 nüfus yoğunluğu
 nüfuz
-nüfuzkâr
+nüfuzkar
 nüfuzlu
 nüfuzluluk
 nüfuzsuz
@@ -50692,11 +50691,11 @@ nüktedan
 nüktedanlık
 nükteli
 nüktesiz
-nükûl
+nük ül
 nümayiş
 nümayişçi
 nümayişçilik
-nümayişkâr
+nümayişkar
 nümismat
 nümismatik
 nüsha
@@ -50857,7 +50856,7 @@ Oğuzeli
 Oğuzlar 
 oh
 oha
-o hâlde
+o halde
 ohlama
 ohlamak
 oje
@@ -51018,7 +51017,7 @@ olağanlaştırma
 olağanlaştırmak
 olağanlık
 olağanüstü
-olağanüstü hâl
+olağanüstü hal
 olağanüstülük
 olamaz
 olamazlık
@@ -51457,7 +51456,7 @@ ordubozanlık
 orducu
 ordu donatım
 orduevi
-ordugâh
+ordugah
 ordu komutanı
 Ordulu
 Ordululuk
@@ -51584,8 +51583,8 @@ orta direk
 Orta Doğu
 orta elçi
 orta hakem
-orta hâlli
-orta hâllilik
+orta halli
+orta hallilik
 orta hece düşmesi
 orta hizmetçisi
 orta hizmeti
@@ -51865,7 +51864,7 @@ oturabilme
 oturabilmek
 oturacak
 oturak
-oturak âlemi
+oturak alemi
 oturakalma
 oturakalmak
 oturak kündesi
@@ -51974,7 +51973,7 @@ oydaşmak
 oydurma
 oydurmak
 oy hakkı
-oy kâğıdı
+oy kağıdı
 oylama
 oylamak
 oylanış
@@ -52077,7 +52076,7 @@ oyuncuktan
 oyunculuk
 oyun ebesi
 oyun havası
-oyun kâğıdı
+oyun kağıdı
 oyun kurucu
 oyun kuruculuğu 
 oyunlaştırılma
@@ -52494,7 +52493,7 @@ ozuga
 ölüm emri
 ölü mevsim
 ölüm fermanı
-ölüm kâğıdı
+ölüm kağıdı
 ölüm kalım meselesi
 ölüm korkusu
 ölümlü
@@ -52507,7 +52506,7 @@ ozuga
 ölümsek
 ölüm sessizliği
 ölüm sigortası
-ölüm sükûtu
+ölüm sük ütu
 ölümsüz
 ölümsüzleşebilme
 ölümsüzleşebilmek
@@ -53783,7 +53782,7 @@ parselletme
 parselletmek
 parselli
 parşömen
-parşömen kâğıdı
+parşömen kağıdı
 partal
 partenogenez
 parter
@@ -54186,7 +54185,7 @@ pejmürde
 pejmürdelik
 pejoratif
 pek
-pekâlâ
+pekala
 pek başlı
 pek canlı
 pekçe
@@ -54298,7 +54297,7 @@ pençeletmek
 pençeli
 pençe pençe
 pençesiz
-pençgâh
+pençgah
 Pendik
 pendname
 peneplen
@@ -54391,19 +54390,19 @@ peren
 perende
 perese
 perestiş
-perestişkâr
+perestişkar
 perforaj
 perforje
 perforjeli
 performans
 performans ödevi
-pergament kâğıdı
+pergament kağıdı
 pergel
 pergel hareketi
 pergola
 perhiz
-perhizkâr
-perhizkârlık
+perhizkar
+perhizkarlık
 perhizli
 perhizsiz
 peri
@@ -54772,7 +54771,7 @@ pirelenmek
 pireler
 pireli
 pire otu
-pirifâni
+pirifani
 pirina
 pirinç
 pirinç çorbası
@@ -54842,8 +54841,8 @@ pisuvar
 pişdar
 pişeğen
 pişek
-Pişekâr
-Pişekârlık
+Pişekar
+Pişekarlık
 pişi
 pişik
 pişim
@@ -55329,7 +55328,7 @@ pranga
 pranga cezası
 pranga kaçağı
 prangalı
-pranga mahkûmu
+pranga mahk ümu
 prangasız
 praseodim
 pratik
@@ -55843,7 +55842,7 @@ rahatsızlık
 rahibe
 rahibelik
 rahim
-rahîm
+rahim
 rahim içi araç
 rahip
 rahiplik
@@ -55864,7 +55863,7 @@ rakamlı
 rakamsız
 raket
 rakı
-rakı âlemi
+rakı alemi
 rakı bardağı
 rakıcı
 rakıcılık
@@ -56072,7 +56071,7 @@ reddettirme
 reddettirmek
 reddeyleme
 reddeylemek
-reddihâkim
+reddihakim
 reddimiras
 reddiye
 reddolunma
@@ -56149,8 +56148,8 @@ rejisörlük odası
 rekabet
 rekabetçi
 rekabetçilik
-rekâket
-rekât
+rekaket
+rekat
 rekiz
 reklam
 reklam ajansı
@@ -56195,7 +56194,7 @@ rendelenme
 rendelenmek
 rendeli
 rendesiz
-rengârenk
+rengarenk
 Ren geyiği
 renk
 renk bilimi
@@ -56270,21 +56269,21 @@ resmediş
 resmen
 resmetme
 resmetmek
-resmî
-resmî bayram
-resmî dil
-resmî elbise
+resmi
+resmi bayram
+resmi dil
+resmi elbise
 resmigeçit
-resmî giysi
+resmi giysi
 resmikabul
-resmîleşme
-resmîleşmek
-resmîleştirebilme
-resmîleştirebilmek
-resmîleştirme
-resmîleştirmek
-resmîlik
-resmî nikâh
+resmileşme
+resmileşmek
+resmileştirebilme
+resmileştirebilmek
+resmileştirme
+resmileştirmek
+resmilik
+resmi nikah
 resmiyet
 resolüsyon
 ressam
@@ -56370,7 +56369,7 @@ rıhtım
 rıza
 rızık
 riayet
-riayetkâr
+riayetkar
 riayetsiz
 riayetsizlik
 rica
@@ -56418,11 +56417,11 @@ ritüel
 rivayet
 rivayet birleşik  zamanı
 riya
-riyakâr
-riyakârane
-riyakârca
-riyakârcasına
-riyakârlık
+riyakar
+riyakarane
+riyakarca
+riyakarcasına
+riyakarlık
 riyal
 riyala
 riyaset
@@ -56685,7 +56684,7 @@ rüçhan
 rüçhan hakkı
 rüesa
 rüfeka
-rükû
+rük ü
 rükün
 rüküş
 rüküşlük
@@ -56710,22 +56709,22 @@ rütbesiz
 rütbesizlik
 rüya
 rüyet
-rüzgâr
-rüzgâraltı
-rüzgâr çizelgesi
-rüzgâr erozyonu
-rüzgârgülü
-rüzgârlama
-rüzgârlamak
-rüzgârlanma
-rüzgârlanmak
-rüzgârlı
-rüzgârlık
-rüzgârölçer
-rüzgârsız
-rüzgârsızlık
-rüzgârüstü
-rüzgâr yükü
+rüzgar
+rüzgaraltı
+rüzgar çizelgesi
+rüzgar erozyonu
+rüzgargülü
+rüzgarlama
+rüzgarlamak
+rüzgarlanma
+rüzgarlanmak
+rüzgarlı
+rüzgarlık
+rüzgarölçer
+rüzgarsız
+rüzgarsızlık
+rüzgarüstü
+rüzgar yükü
 s
 S
 saadet
@@ -56796,7 +56795,7 @@ saban demiri
 saban kemiği
 sabankıran
 saban kulağı
-saba rüzgârı
+saba rüzgarı
 sabık
 sabıka
 sabıka kaydı
@@ -56975,7 +56974,7 @@ sadıkane
 sadıkça
 sadıklık
 sadır
-sâdır
+sadır
 sadik
 sadiklik
 sadist
@@ -57247,8 +57246,8 @@ sahre
 sahte
 sahteci
 sahtecilik
-sahtekâr
-sahtekârlık
+sahtekar
+sahtekarlık
 sahteleme
 sahtelemek
 sahteletme
@@ -57622,7 +57621,7 @@ saman
 saman alevi
 Samandağ 
 samani
-saman kâğıdı
+saman kağıdı
 samankapan
 samanlı
 samanlı gübre
@@ -57683,10 +57682,10 @@ sanat eri
 sanat eseri
 sanatevi
 sanat filmi
-sanatkâr
-sanatkârane
-sanatkârca
-sanatkârlık
+sanatkar
+sanatkarane
+sanatkarca
+sanatkarlık
 sanatlaşma
 sanatlaşmak
 sanatlı
@@ -58104,7 +58103,7 @@ sarıyonca
 Sarız 
 sarızambak
 sari 
-sâri
+sari
 sarig
 sarih
 sarihlik
@@ -58512,7 +58511,7 @@ sazende
 sazendelik
 saz eseri
 sazevi
-sazkâr
+sazkar
 sazkayası
 sazlı
 sazlık
@@ -58531,8 +58530,8 @@ se
 Se
 seans
 sebat
-sebatkâr
-sebatkârlık
+sebatkar
+sebatkarlık
 sebatlı
 sebatlılık
 sebatsız
@@ -58649,8 +58648,8 @@ sedef hastalığı
 sedefimsi
 sedef kakma
 sedef kakmalı
-sedefkâr
-sedefkârlık
+sedefkar
+sedefkarlık
 sedefli
 sedefli kalker
 sedef otu
@@ -58675,9 +58674,9 @@ sefasız
 sefer
 seferber
 seferberlik
-seferî
-seferî durum
-seferî hâl
+seferi
+seferi durum
+seferi hal
 Seferihisar 
 seferli
 seferlik
@@ -58693,8 +58692,8 @@ sefir
 sefire
 sefirikebir
 sefirlik
-segâh
-segâh perdesi
+segah
+segah perdesi
 segman
 segment
 seğirdim
@@ -59079,7 +59078,7 @@ serbest ekonomi
 serbest elektron
 serbest enerji
 serbest güreş
-serbestî
+serbesti
 serbest kart
 serbestleme
 serbestlemek
@@ -59199,7 +59198,7 @@ serme
 sermek
 sermest
 sermestane
-sermestî
+sermesti
 sermestlik
 sermuharrir
 sermuharrirlik
@@ -59485,7 +59484,7 @@ seviyesizlik
 sevk
 sevkitabii
 sevkiyat
-sevk kâğıdı
+sevk kağıdı
 sevk pusulası
 sevkülceyş
 sevme
@@ -60012,7 +60011,7 @@ sırıklama
 sırıklamak
 sırıkla yüksek atlama
 sırılsıklam
-sırılsıklam âşık
+sırılsıklam aşık
 sırım
 sırıma
 sırımak
@@ -60026,7 +60025,7 @@ sırıtkan
 sırıtkanlık
 sırıtma
 sırıtmak
-sır kâtibi
+sır katibi
 sır küpü
 sırlama
 sırlamak
@@ -60055,7 +60054,7 @@ sırretmek
 sırrolma
 sırrolmak
 sırsıklam
-sırsıklam âşık
+sırsıklam aşık
 sırsız
 sırt
 sırtar
@@ -60251,7 +60250,7 @@ sigara böceği
 sigara böreği
 sigaracı
 sigaracılık
-sigara kâğıdı
+sigara kağıdı
 sigaralı
 sigaralık
 sigarasız
@@ -60280,7 +60279,7 @@ Sih
 sihir
 sihirbaz
 sihirbazlık
-sihirkâr
+sihirkar
 sihirlenme
 sihirlenmek
 sihirli
@@ -60701,11 +60700,11 @@ sistol
 sit
 sit alanı
 sitayiş
-sitayişkâr
+sitayişkar
 site
 sitem
-sitemkâr
-sitemkârlık
+sitemkar
+sitemkarlık
 sitemli
 sitemlilik
 sitemsiz
@@ -61186,7 +61185,7 @@ soneri
 son görev
 son gürlüğü
 son hızla
-son kânun
+son kanun
 son kerte
 son kertede
 sonlama
@@ -61283,7 +61282,7 @@ sorguçlanma
 sorguçlanmak
 sorguçlu
 sorguçsuz
-sorgu hâkimi
+sorgu hakimi
 sorgu kutusu
 sorgulama
 sorgulamak
@@ -62096,7 +62095,7 @@ sultanibuselik
 sultanihüzzam
 sultani tembel
 sultani tembellik
-sultaniyegâh
+sultaniyegah
 Sultaniye üzümü
 sultan kethüdası
 sultanlık
@@ -62333,14 +62332,14 @@ süje
 süklüm püklüm
 süklüm püklümlük
 sükse
-sükûn
-sükûnet
-sükûnetle
-sükûnetli
-sükût
-sükût hakkı
-sükûti
-sükûtilik
+sük ün
+sük ünet
+sük ünetle
+sük ünetli
+sük üt
+sük üt hakkı
+sük üti
+sük ütilik
 sülale
 sülf
 sülfamit
@@ -63138,7 +63137,7 @@ süzüş
 Şarkiyat
 Şarkiyatçı
 Şarkiyatçılık
-Şarkkâri
+Şarkkari
 Şark kurnazlığı
 Şarklı
 Şarklılaşma
@@ -63342,7 +63341,7 @@ süzüş
 şehir rehberi
 şehir turu
 şehit
-Şehitkâmil
+Şehitkamil
 şehitlik
 şehla
 şehname
@@ -63352,7 +63351,7 @@ süzüş
 şehnazbuselik
 şehremaneti
 şehremini
-şehriyâr
+şehriyar
 şehriye
 şehriye çorbası
 şehriye pilavı
@@ -63425,7 +63424,7 @@ süzüş
 şekilsiz
 şekilsizlik
 şeklen
-şeklî
+şekli
 şekva
 şekvacı
 şelale
@@ -63441,7 +63440,7 @@ süzüş
 şempanze
 şems
 şemse
-şemsî
+şemsi
 şemsiye
 şemsiyeci
 şemsiyecilik
@@ -63736,12 +63735,12 @@ süzüş
 şiirli
 şiirsel
 şiirsi
-şikâr
-şikâyet
-şikâyetçi
-şikâyetçilik
-şikâyet kutusu
-şikâyetname
+şikar
+şikayet
+şikayetçi
+şikayetçilik
+şikayet kutusu
+şikayetname
 şike
 şikeli
 şikemperver
@@ -63759,7 +63758,7 @@ süzüş
 şilt
 şilte
 şimal
-şimalî
+şimali
 Şimalli
 şimdi
 şimdicik
@@ -63878,7 +63877,7 @@ süzüş
 şita
 şitaiye
 şive
-şivekâr
+şivekar
 şiveli
 şivesiz
 şivesizlik
@@ -63959,7 +63958,7 @@ süzüş
 şufa
 şufa hakkı
 şuh
-şu hâlde
+şu halde
 şuhluk
 Şuhut
 şule
@@ -63968,7 +63967,7 @@ süzüş
 şuncası
 şunlar
 şura 
-şûra
+ş üra
 şuracık
 şuracıkta
 şurada
@@ -64038,7 +64037,7 @@ süzüş
 şüpheli
 şüphesiz
 şüphesizlik
-şürekâ
+şüreka
 şüyu
 şvester
 t
@@ -64147,7 +64146,7 @@ tabl
 tabla
 tablacı
 tablacılık
-tablakâr
+tablakar
 tablalı
 tablet
 tabliye
@@ -64245,7 +64244,7 @@ tahıl ambarı
 tahıl yemi
 tahin
 tahin helvası
-tahinî
+tahini
 tahinli
 tahinli ekmek
 tahin rengi
@@ -64264,7 +64263,7 @@ tahlif
 tahlil
 tahlilci
 tahlilcilik
-tahlilî
+tahlili
 tahlis
 tahlisiye
 tahlisiye sandalı
@@ -64274,7 +64273,7 @@ tahmin
 tahminci
 tahmincilik
 tahminen
-tahminî
+tahmini
 tahmis
 tahmisçi
 tahnit
@@ -64284,20 +64283,20 @@ tahribat
 tahrif
 tahrifat
 tahrik
-tahrikât
+tahrikat
 tahrikçi
 tahrikçilik
 tahril
 tahrilli
 tahrip
-tahripkâr
-tahripkârlık
+tahripkar
+tahripkarlık
 tahrir
 tahrirat
-tahrirat kâtibi
+tahrirat katibi
 tahriren
 tahrir heyeti
-tahrirî
+tahriri
 tahriş
 tahsil
 tahsilat
@@ -64368,8 +64367,8 @@ takdir
 takdirde
 takdir hakkı
 takdiriilahi
-takdirkâr
-takdirkârlık
+takdirkar
+takdirkarlık
 takdirname
 takdir yetkisi
 takdis
@@ -64443,8 +64442,8 @@ takla böcekleri
 taklacı
 taklacı güvercin
 taklacılık
-taklidî
-taklidî kelime
+taklidi
+taklidi kelime
 taklip
 taklit
 taklitçi
@@ -64468,7 +64467,7 @@ takoz
 takozlama
 takozlamak
 takriben
-takribî
+takribi
 takrip
 takrir
 takriz
@@ -64544,8 +64543,8 @@ talazlık
 talebe
 talebelik
 talep
-talepkâr
-talepkârlık
+talepkar
+talepkarlık
 talepname
 tali
 talih
@@ -64561,7 +64560,7 @@ talim
 talimar
 talimat
 talimatname
-talimgâh
+talimgah
 talimhane
 talimli
 talimname
@@ -64583,8 +64582,8 @@ talyum
 tam
 tam açı
 tamah
-tamahkâr
-tamahkârlık
+tamahkar
+tamahkarlık
 tam algı
 tam altın
 tamam
@@ -65038,14 +65037,14 @@ tarihçe
 tarihçi
 tarihçilik
 tarihen
-tarihî
-tarihî coğrafya
-tarihî eser
-tarihî film
-tarihî maddeci
-tarihî maddecilik
-tarihî roman
-tarihî tiyatro
+tarihi
+tarihi coğrafya
+tarihi eser
+tarihi film
+tarihi maddeci
+tarihi maddecilik
+tarihi roman
+tarihi tiyatro
 tarihlendirme
 tarihlendirmek
 tarihli
@@ -65234,9 +65233,9 @@ tasvip
 tasvir
 tasvirci
 tasvircilik
-tasvirî
-tasvirî dil bilgisi
-tasvirî fiil
+tasviri
+tasviri dil bilgisi
+tasviri fiil
 taş
 taşabilme
 taşabilmek
@@ -65403,7 +65402,7 @@ tatavacılık
 tatbik
 tatbikat
 tatbikatçı
-tatbikî
+tatbiki
 tatbik imzası
 tatbik mührü
 tatbilir
@@ -65459,8 +65458,8 @@ tatlı tatlı
 tatma
 tatmak
 tatmin
-tatminkâr
-tatminkârlık
+tatminkar
+tatminkarlık
 tatminsiz
 tatminsizlik
 tatsal
@@ -65504,8 +65503,8 @@ tavik
 taviz
 tavizci
 tavizcilik
-tavizkâr
-tavizkârlık
+tavizkar
+tavizkarlık
 tavizsiz
 tavla
 tavlacı
@@ -65680,7 +65679,7 @@ tebarüz
 tebcil
 tebdil
 tebdilihava
-tebdilimekân
+tebdilimekan
 tebeddül
 tebeddülat
 tebelleş
@@ -65718,8 +65717,8 @@ tecahülüarif
 tecahülüarifane
 tecanüs
 tecavüz
-tecavüzkâr
-tecavüzkârlık
+tecavüzkar
+tecavüzkarlık
 tecdit
 teceddüt
 tecelli
@@ -65785,7 +65784,7 @@ tedirginlik
 tediye
 tediye emri
 tedricen
-tedricî
+tedrici
 tedriç
 tedris
 tedrisat
@@ -65848,8 +65847,8 @@ tehalüf
 tehalük
 tehcir
 tehdit
-tehditkâr
-tehditkârlık
+tehditkar
+tehditkarlık
 tehditli
 tehditsiz
 tehevvür
@@ -65872,13 +65871,13 @@ teizm
 tek
 tekabül
 tek adam
-tekâlif
-tekâmül
+tekalif
+tekamül
 tek anlamlı
 tek anlamlılık
-tekâpu
-tekâsüf
-tekâsül
+tekapu
+tekasüf
+tekasül
 tekaüdiye
 tekaüt
 tekaüt ikramiyesi
@@ -66065,7 +66064,7 @@ tek sesli
 tek seslilik
 teksif
 teksir
-teksir kâğıdı
+teksir kağıdı
 teksir makinesi
 tekst
 tekstil
@@ -66213,7 +66212,7 @@ telin mitingi
 telis
 tel kadayıf
 tel kafes
-telkâri
+telkari
 telkih
 telkin
 tel kurdu
@@ -66356,7 +66355,7 @@ teminat senedi
 teminatsız
 temiz
 temizce
-temiz kâğıdı
+temiz kağıdı
 temiz kalpli
 temiz kalplilik
 temiz kan
@@ -66409,9 +66408,9 @@ temriye
 temsil
 temsilci
 temsilcilik
-temsilî
-temsilî istiare
-temsilî resim
+temsili
+temsili istiare
+temsili resim
 temyiz
 ten
 tenafür
@@ -66459,7 +66458,7 @@ tenisçi dirseği
 tenisçilik
 tenis kortu
 tenis sahası
-tenkidî
+tenkidi
 tenkil
 tenkis
 tenkisat
@@ -66642,7 +66641,7 @@ terciibent
 tercüman
 tercümanlık
 tercüme
-tercümeihâl
+tercümeihal
 terdit
 tere
 terebentin
@@ -66680,7 +66679,7 @@ terimleştirmek
 terimli
 terk
 terki
-terkibî
+terkibi
 terkibibent
 terkin
 terkip
@@ -66808,7 +66807,7 @@ tescilli
 tescilsiz
 tesdis
 teselli
-teselli mükâfatı
+teselli mükafatı
 tesellisiz
 tesellisizlik
 tesellüm
@@ -66932,7 +66931,7 @@ teşt
 teşvik
 teşvikçi
 teşvikçilik
-teşvikkâr
+teşvikkar
 teşviş
 teşyi
 tetabuk
@@ -67038,19 +67037,19 @@ tezellül
 tezelzül
 tezene
 tezevvüç
-tezgâh
-tezgâhçı
-tezgâhçılık
-tezgâhlama
-tezgâhlamak
-tezgâhlanma
-tezgâhlanmak
-tezgâhlayabilme
-tezgâhlayabilmek
-tezgâh mengenesi
-tezgâhtar
-tezgâhtar ağzı
-tezgâhtarlık
+tezgah
+tezgahçı
+tezgahçılık
+tezgahlama
+tezgahlamak
+tezgahlanma
+tezgahlanmak
+tezgahlayabilme
+tezgahlayabilmek
+tezgah mengenesi
+tezgahtar
+tezgahtar ağzı
+tezgahtarlık
 tezhip
 tezhipçi
 tezhipçilik
@@ -67075,11 +67074,11 @@ tez vakitte
 tezvir
 tezvirat
 tezyif
-tezyifkâr
+tezyifkar
 tezyin
 tezyinat
-tezyinî
-tezyinî sanat
+tezyini
+tezyini sanat
 tezyit
 Th
 tıbben
@@ -67386,7 +67385,7 @@ ticaret ataşesi
 ticaret borsası
 ticaret coğrafyası
 ticaret filosu
-ticaretgâh
+ticaretgah
 ticaret gemisi
 ticarethane
 ticaret işletmesi
@@ -67958,7 +67957,7 @@ topu topu
 topuz
 topuzlu
 topuzlu kilit
-topyekûn
+topyek ün
 top zambak
 tor
 torak
@@ -68155,8 +68154,8 @@ töskürtmek
 töskürü
 tövbe
 tövbe ayları
-tövbekâr
-tövbekârlık
+tövbekar
+tövbekarlık
 tövbeli
 tövbesiz
 tövbesizlik
@@ -68459,7 +68458,7 @@ turnike
 turno
 turnusol
 turnusol boyası
-turnusol kâğıdı
+turnusol kağıdı
 turnuva
 tur operatörü
 turp
@@ -68632,7 +68631,7 @@ tuvalet
 tuvaletçi
 tuvaletçilik
 tuvalet ispirtosu
-tuvalet kâğıdı
+tuvalet kağıdı
 tuvalet masası
 tuvalet sabunu
 tuvalet takımı
@@ -68853,7 +68852,7 @@ Türki
 Türkiyat
 Türkiye Türkçesi
 Türk kahvesi
-Türkkâri
+Türkkari
 türkkıyması
 türkkupası
 Türkleşme
@@ -69286,12 +69285,12 @@ umumhane
 umumi
 umumi af
 umumi coğrafya
-umumi efkâr
+umumi efkar
 umumi heyet
-umumi kâtip
+umumi katip
 umumi kongre
 umumilik
-umumi vekâletname
+umumi vekaletname
 umumiyet
 umumiyetle
 umum müdür
@@ -69931,7 +69930,7 @@ uzun far
 uzun hava
 uzun hayvan
 uzun hece
-uzun hikâye
+uzun hikaye
 uzun kafalı
 Uzunköprü 
 uzun kulaklı
@@ -69998,11 +69997,11 @@ uzviyet
 üçgen prizma
 üçgensel bölge
 üçgül
-üç hâl kanunu
+üç hal kanunu
 üç iki
-üçkâğıt
-üçkâğıtçı
-üçkâğıtçılık
+üçkağıt
+üçkağıtçı
+üçkağıtçılık
 üçkat
 üç katlı
 üçleme
@@ -70346,9 +70345,9 @@ uzviyet
 üstünseme
 üstünsemek
 üstün yapım
-üstün zekâ
-üstün zekâlı
-üstün zekâlılık
+üstün zeka
+üstün zekalı
+üstün zekalılık
 üstüpü
 üstüpüleme
 üstüpülemek
@@ -70571,11 +70570,11 @@ vakfetmek
 Vakfıkebir 
 vakfiye
 vakıa
-vâkıâ
+vakıa
 vakıf
-vâkıf
+vakıf
 vakıf arazisi
-vâkıflık
+vakıflık
 vakıf malı
 vakıfname
 vakıf senedi
@@ -70682,7 +70681,7 @@ vardiyacı
 vardiyacılık
 vareste
 vargel
-vargel tezgâhı
+vargel tezgahı
 vargı
 var gücüyle
 var hızıyla
@@ -70699,13 +70698,13 @@ varidatçı
 varide
 varil
 varis 
-vâris
+varis
 varis çorabı
 varisli
-vârisli
-vârislik
+varisli
+varislik
 varissiz
-vârissiz
+varissiz
 varit
 variyet
 variyetli
@@ -70778,7 +70777,7 @@ vasıfsız işçi
 vasıfsızlık
 vasıl
 vasıta
-vasıta hâli
+vasıta hali
 vasıtalı
 vasıtalık
 vasıtalı vergi
@@ -70787,7 +70786,7 @@ vasıtasız
 vasıtasızlık
 vasıtasız vergi
 vasi 
-vâsi
+vasi
 vasilik
 vasistas
 vasiyet
@@ -70893,8 +70892,8 @@ vedalaşmak
 vedia
 ve diğerleri 
 vefa
-vefakâr
-vefakârlık
+vefakar
+vefakarlık
 vefalı
 vefalılık
 vefasız
@@ -70915,14 +70914,14 @@ vejetarizm
 vejetaryen
 vejetaryenlik
 vejetasyon
-vekâlet
-vekâleten
-vekâleten atama
-vekâleten atamak
-vekâleten atanma
-vekâleten atanmak
-vekâletname
-vekâlet ücreti
+vekalet
+vekaleten
+vekaleten atama
+vekaleten atamak
+vekaleten atanma
+vekaleten atanmak
+vekaletname
+vekalet ücreti
 vekil
 vekilharç
 vekilharçlık
@@ -71014,8 +71013,8 @@ veriliş
 verilme
 verilmek
 verim
-verimkâr
-verimkârlık
+verimkar
+verimkarlık
 verimli
 verimlilik
 verimsiz
@@ -71502,7 +71501,7 @@ yaban turpu
 yaban yasemini
 yabgu
 yad 
-yâd
+yad
 ya da
 yada taşı
 yad el
@@ -71521,7 +71520,7 @@ yadırgatma
 yadırgatmak
 yadırgayış
 yadırgı
-yadigâr
+yadigar
 yadsıma
 yadsımak
 yadsınma
@@ -71603,7 +71602,7 @@ yağlı güreşçi
 yağlı harç
 yağlı ip
 yağlık
-yağlı kâğıt
+yağlı kağıt
 yağlı kapı
 yağlı kara
 yağlıkçı
@@ -71944,7 +71943,7 @@ yalınç
 yalın durum
 yalıngaç
 yalıngöz
-yalın hâl
+yalın hal
 yalın isim
 yalın kat
 yalın kelime
@@ -72150,7 +72149,7 @@ yanı başında
 yanık
 yanıkara
 yanıklık
-yanık rüzgâr
+yanık rüzgar
 yanık ses
 yanık sesli
 yanıksı
@@ -72195,7 +72194,7 @@ yanıtsız
 yanıtsızlık
 yani
 yan kabağı
-yan kâğıdı
+yan kağıdı
 yankesici
 yankesicilik
 yankı
@@ -72461,7 +72460,7 @@ yapyakın
 yapyalın
 yapyalnız
 yar 
-yâr
+yar
 yara
 yara bandı
 yara bere
@@ -72493,7 +72492,7 @@ yaramazca
 yaramazlaşma
 yaramazlaşmak
 yaramazlık
-yâran
+yaran
 yaranabilme
 yaranabilmek
 yarandırma
@@ -72599,10 +72598,10 @@ yardımsızlık
 yardırış
 yardırma
 yardırmak
-yâren
-yârenbaşı
-yârence
-yârenlik
+yaren
+yarenbaşı
+yarence
+yarenlik
 yargı
 yargı alanı
 yargıcı
@@ -72721,7 +72720,7 @@ yarın öbür gün
 yarıntı
 yarı orta sıklet
 yarı otomatik
-yarı resmî
+yarı resmi
 yarı saha
 yarı sanayileşme
 yarı saydam
@@ -72755,7 +72754,7 @@ yarkurul
 yarlıgama
 yarlıgamak
 yarlık
-yârlik
+yarlik
 yarma
 yarma aşı
 yarma buğday
@@ -73305,7 +73304,7 @@ yazı hayatı
 yazı işleri
 yazık
 yazı kadrosu
-yazı kâğıdı
+yazı kağıdı
 yazı karakteri
 yazık günah
 yazıklanma
@@ -73323,7 +73322,7 @@ yazılı emir
 yazılı hani
 yazılı hukuk
 yazılı imtihan
-yazılı kâğıdı
+yazılı kağıdı
 yazılım
 yazılım dizgesi
 yazılım paketi
@@ -73450,9 +73449,9 @@ yediveren
 yediz
 yedme
 yedmek
-yegâh
-yegân
-yegâne
+yegah
+yegan
+yegane
 yeğ
 yeğen
 yeğin
@@ -73494,7 +73493,7 @@ yekparelik
 yeksan
 yekta
 yekten
-yekûn
+yek ün
 yekvücut
 yel
 yel değirmeni
@@ -74139,7 +74138,7 @@ yılan çiçeği
 yılan derisi
 yılandili
 yılan gömleği
-yılan hikâyesi
+yılan hikayesi
 yılaniğnesi
 yılan kavı
 yılankavi
@@ -74169,7 +74168,7 @@ yıldırım aşkı
 yıldırımkıran
 yıldırımlı
 yıldırımlık
-yıldırım nikâhı
+yıldırım nikahı
 yıldırımsavar
 yıldırım siperi
 yıldırım takla
@@ -74206,7 +74205,7 @@ yıldızlı
 yıldızlık
 yıldız omurlular
 yıldız poyraz
-yıldız rüzgârı
+yıldız rüzgarı
 yıldız saati
 yıldız savaşı
 yıldızsı
@@ -74521,7 +74520,7 @@ yoldurmak
 yoldurtma
 yoldurtmak
 yoldüzler
-yol erkân
+yol erkan
 yol evladı
 yolgeçen hanı
 yol halısı
@@ -74691,7 +74690,7 @@ yönelim
 yöneliş
 yönelme
 yönelme durumu
-yönelme hâli
+yönelme hali
 yönelmek
 yönelmeli
 yönelmeli tümleç
@@ -75050,7 +75049,7 @@ yüklem birliği
 yükleme
 yükleme boşaltma
 yükleme durumu
-yükleme hâli
+yükleme hali
 yüklemek
 yüklem grubu
 yüklem öbeği
@@ -75379,8 +75378,8 @@ zabitlik
 zaç
 zaç yağı
 zade
-zadegân
-zadegânlık
+zadegan
+zadeganlık
 zafer
 Zafer Bayramı
 zafiyet
@@ -75398,11 +75397,11 @@ zağlamak
 zağlı
 zağsız
 zahir
-zahîr
+zahir
 zahirde
 zahire
 zahiren
-zahirî
+zahiri
 zahit
 zahitlik
 zahmet
@@ -75469,7 +75468,7 @@ zamklamak
 zamklanma
 zamklanmak
 zamklı
-zamklı kâğıt
+zamklı kağıt
 zamlanma
 zamlanmak
 zamlı
@@ -75485,8 +75484,8 @@ zan
 zanaat
 zanaatçı
 zanaatçılık
-zanaatkâr
-zanaatkârlık
+zanaatkar
+zanaatkarlık
 zangırdama
 zangırdamak
 zangırdatma
@@ -75561,7 +75560,7 @@ zaten
 zatıalileri
 zatıaliniz
 zati 
-zatî
+zati
 zat işleri
 zatülcenp
 Zatülkürsi
@@ -75604,7 +75603,7 @@ zebunluk
 Zebur
 zecir
 zecren
-zecrî
+zecri
 zedeleme
 zedelemek
 zedeleniş
@@ -75636,19 +75635,19 @@ zehretme
 zehretmek
 zehrolma
 zehrolmak
-zekâ
-zekâ bölümü
-zekâ geriliği
-zekâlı
-zekâlılık
-zekâsız
-zekâsızlık
-zekât
-zekâ testi
-zekât keçisi
-zekâvet
-zekâ yaşı
-zekâ yeteneği
+zeka
+zeka bölümü
+zeka geriliği
+zekalı
+zekalılık
+zekasız
+zekasızlık
+zekat
+zeka testi
+zekat keçisi
+zekavet
+zeka yaşı
+zeka yeteneği
 zeker
 Zekeriya sofrası
 zeki
@@ -75718,8 +75717,8 @@ zerzevatçı
 zerzevatçılık
 zevahir
 zeval
-zevalî
-zevalî saat
+zevali
+zevali saat
 zevalsiz
 zevalsizlik
 zeval vakti
@@ -75813,7 +75812,7 @@ zımnen
 zımnında
 zımni
 zımpara
-zımpara kâğıdı
+zımpara kağıdı
 zımparalama
 zımparalamak
 zımparalanma
@@ -75919,8 +75918,8 @@ zibidilik
 zifaf
 zifin
 zifir
-zifirî
-zifirî karanlık
+zifiri
+zifiri karanlık
 zifos
 zift
 ziftleme
@@ -75943,7 +75942,7 @@ zihin karışıklığı
 zihinsel
 zihin yorgunluğu
 zihnen
-zihnî
+zihni
 zihniye
 zihniyet
 zikıymet
@@ -76035,13 +76034,13 @@ ziyadesiyle
 ziyafet
 ziyalı
 ziyan
-ziyankâr
-ziyankârlık
+ziyankar
+ziyankarlık
 ziyansız
 ziyaret
 ziyaretçi
 ziyaretçilik
-ziyaretgâh
+ziyaretgah
 ziyaret yeri
 ziyasız
 ziyasızlık
@@ -76144,12 +76143,12 @@ zührevi hastalık
 zührevi hastalıklı
 züht
 zühul
-zükâm
+zükam
 zül
 zülal
 zülfaris
 Zülfikar
-zülfüyâr
+zülfüyar
 zülüf
 zülüflü
 zümre
