@@ -17,4 +17,4 @@ python main.py
 
 or
 
-execute [this](play.ipynb) notebook
+execute [this](http://colab.research.google.com/github/hakanonal/hang-man-ai/blob/main/play.ipynb) notebook
