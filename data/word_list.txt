@@ -1372,8 +1372,8 @@ ahcar
 ahdetme
 ahdetmek
 ahdî
-Ahd-i Atik
-Ahd-i Cedit
+Ahd i Atik
+Ahd i Cedit
 ahenk
 ahenk kaidesi
 ahenkleştirme
@@ -6278,7 +6278,7 @@ bağdaştırmak
 Bağdat
 bağ doku
 bağ evi
-bağ-fiil
+bağ fiil
 bağı
 bağıcı
 bağıcılık
@@ -6419,7 +6419,7 @@ bağlamacılık
 bağlama hattı
 bağlamak
 bağlamalık
-bağlama zarf-fiili
+bağlama zarf fiili
 bağlamsal
 bağlamsal anlam
 bağlanabilme
@@ -19733,10 +19733,10 @@ dişçi
 dişçik
 dişçi koltuğu
 dişçilik
-diş-damak ünsüzü
+diş damak ünsüzü
 diş diş
 diş doktoru
-diş-dudak ünsüzü
+diş dudak ünsüzü
 dişe diş
 dişeği
 dişeğileme
@@ -19744,8 +19744,8 @@ dişeğilemek
 dişeme
 dişemek
 diş eti
-diş eti-damak ünsüzü
-diş eti-dudak ünsüzü
+diş eti damak ünsüzü
+diş eti dudak ünsüzü
 diş eti ünsüzü
 diş fırçası
 diş hekimi
@@ -23194,7 +23194,7 @@ epitel
 epitelyum
 epizot
 epope
-e-posta
+eposta
 eprime
 eprimek
 epsem
@@ -25415,7 +25415,7 @@ finiş
 fink
 Finlandiyalı
 fino
-Fin-Ugor
+Fin Ugor
 firak
 firaklı
 firar
@@ -26582,7 +26582,7 @@ geçmişseverlik
 geçmişsiz
 geçmiş zaman
 geçmiş zaman görünümü
-geçmiş zaman sıfat-fiili
+geçmiş zaman sıfat fiili
 geda
 gedalık
 gedik
@@ -26617,7 +26617,7 @@ gelecekçilik
 gelecek zaman
 gelecek zaman görünümü
 gelecek zaman kipi
-gelecek zaman sıfat-fiili
+gelecek zaman sıfat fiili
 geleğen
 gelembe
 geleme
@@ -26843,7 +26843,7 @@ geniş yürekli
 geniş yüreklilik
 geniş zaman
 geniş zaman görünümü
-geniş zaman sıfat-fiili
+geniş zaman sıfat fiili
 genitif
 geniz
 genizsil
@@ -27990,9 +27990,9 @@ görmüşlük duygusu
 görmüşlük hissi
 görsel
 görsel etkileme
-görsel-işitsel
-görsel-işitsel çağrışım
-görsel-işitsel eğitim
+görsel işitsel
+görsel işitsel çağrışım
+görsel işitsel eğitim
 görsellik
 görsel sanatlar
 görü
@@ -31363,7 +31363,7 @@ hinoğluhinleşmek
 hinoğluhinlik
 Hint
 Hint armudu
-Hint-Avrupa
+Hint Avrupa
 Hint bademi
 Hint baklası
 Hint bezelyesi
@@ -39085,7 +39085,7 @@ kekremsilik
 kel
 kelalaka
 kelam
-Kelam-ı Kadim 
+Kelam ı Kadim 
 kelamıkibar
 kelaynak
 kele
@@ -41045,7 +41045,7 @@ kit
 kitabe
 kitabet
 kitabevi
-Kitab-ı Mukaddes
+Kitab ı Mukaddes
 kitabi
 kitap
 kitap açacağı
@@ -43279,8 +43279,8 @@ kuple
 kupon
 kupür
 kur
-Kur'an
-Kur'an-ı Kerim
+Kuran
+Kuran ı Kerim
 kura
 kurabilme
 kurabilmek
@@ -48588,7 +48588,7 @@ musavver
 Musevi
 Musevilik
 Mushaf
-Mushaf-ı Şerif 
+Mushaf ı Şerif 
 musır
 musibet
 musikar
@@ -50372,7 +50372,7 @@ nispetçi
 nispetçilik
 nispet eki
 nispeten
-nispet i'si
+nispet i si
 nispetle
 nispetli
 nispetsiz
@@ -59659,8 +59659,8 @@ sıçtırma
 sıçtırmak
 sıdk
 sıfat
-sıfat-fiil
-sıfat-fiil grubu
+sıfat fiil
+sıfat fiil grubu
 sıfatlandırma
 sıfatlandırmak
 sıfatlaştırma
@@ -69372,7 +69372,7 @@ upuygun
 upuzun
 ur
 urağan
-Ural-Altay
+Ural Altay
 Ural dilleri
 uran
 Uranüs
@@ -75528,8 +75528,8 @@ zarcı
 zarf
 zarfçı
 zarfçılık
-zarf-fiil
-zarf-fiil grubu
+zarf fiil
+zarf fiil grubu
 zarfında
 zarflama
 zarflamak
