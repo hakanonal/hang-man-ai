@@ -50,3 +50,10 @@ This document is my journal about this project. I am writing all my thoughts tri
 - continue working on environment:
   - so initial implementation of envirronment has finished I have.
   - Ups I have forgot to retreive the words from the word list.
+- I did the environment but I want to paramitize the maximum try as config.
+  - May later
+- I have completed the console game interface. you can call
+
+  ```
+  python main.py
+  ```

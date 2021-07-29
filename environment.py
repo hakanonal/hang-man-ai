@@ -1,4 +1,10 @@
 import random
+from enum import Enum
+
+class GameResult(Enum):
+    Playing = 0
+    Win = 1
+    Loose = 2
 
 class environment:
 
@@ -16,7 +22,7 @@ class environment:
             'letters_to_guess': letters_to_guess,
             'guessed_letters' : [],  
             'board' : [letter if letter == ' ' else '_' for letter in letters_to_guess],
-            'is_finised' : False,
+            'result' : GameResult.Playing,
             'last_message': '',
             'max_try' : 10,
             'try' : 0,
@@ -37,22 +43,29 @@ class environment:
             return self.state
         
         self.state['guessed_letters'].append(letter)
-        self.state['try'] += 1
         
+        _find_any = False
         for i, letter_to_guess in enumerate(self.state['letters_to_guess']):
             if(letter_to_guess == letter):
                 self.state['board'][i] = letter
+                _find_any = True
+        
+        if not _find_any:
+            self.state['try'] += 1
 
         if '_' not in self.state['board']:
             self.state['last_message'] = 'You Won!'
-            self.state['is_finised'] = True
+            self.state['result'] = GameResult.Win
             return self.state
 
         if self.state['max_try'] <= self.state['try']:
             self.state['last_message'] = 'You Lost! The word was %s' % self.state['word_to_guess']
             self.state['board'] = self.state['letters_to_guess']
-            self.state['is_finised'] = True
+            self.state['result'] = GameResult.Loose
             return self.state
 
         self.state['last_message'] = 'Go on...'
         return self.state
+
+    def board(self):
+        return ''.join(self.state['board'])
