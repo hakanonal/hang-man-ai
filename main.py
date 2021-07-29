@@ -6,7 +6,7 @@ def main():
     e = environment()
 
     while True:
-        print('%s Left: %d %s'%(e.board(),e.state['max_try']-e.state['try'],e.state['last_message']))
+        print('%s Left: %d %s %s'%(e.board(),e.state['max_try']-e.state['try'],e.state['guessed_letters'],e.state['last_message']))
         if e.state['result'] != GameResult.Playing.Playing:
             break
         c = input('Guess letter: ')
