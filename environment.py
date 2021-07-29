@@ -1,3 +1,4 @@
+import random
 
 class environment:
 
@@ -5,7 +6,10 @@ class environment:
         self.reset()
 
     def reset(self):
-        word_to_guess = 'aba'.lower() #TODO: retrive from word list.
+        with open('data/word_list.txt') as f:
+            lines = [line.rstrip() for line in f]
+        r = random.randrange(len(lines))
+        word_to_guess = lines[r].lower()
         letters_to_guess = list(word_to_guess)
         self.state = {
             'word_to_guess' : word_to_guess,
@@ -19,6 +23,10 @@ class environment:
         }
     
     def play(self,letter):
+        if(len(letter) > 1):
+            self.state['last_message'] = 'Only one letter allowed!'
+            return self.state
+
         if(letter.isalpha() == False):
             self.state['last_message'] = 'Invalid letter %s!' % letter
             return self.state
@@ -46,5 +54,5 @@ class environment:
             self.state['is_finised'] = True
             return self.state
 
-        self.state['last_message'] = 'Ok'
+        self.state['last_message'] = 'Go on...'
         return self.state

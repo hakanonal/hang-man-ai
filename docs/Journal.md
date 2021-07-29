@@ -49,3 +49,4 @@ This document is my journal about this project. I am writing all my thoughts tri
 
 - continue working on environment:
   - so initial implementation of envirronment has finished I have.
+  - Ups I have forgot to retreive the words from the word list.
