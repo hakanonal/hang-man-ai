@@ -8,7 +8,8 @@ class GameResult(Enum):
 
 class environment:
 
-    def __init__(self):
+    def __init__(self,config = {'max_try' : 10}):
+        self.config = config
         self.reset()
 
     def reset(self):
@@ -24,7 +25,7 @@ class environment:
             'board' : [letter if letter == ' ' else '_' for letter in letters_to_guess],
             'result' : GameResult.Playing,
             'last_message': '',
-            'max_try' : 10,
+            'max_try' : self.config['max_try'],
             'try' : 0,
         }
     

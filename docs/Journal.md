@@ -61,4 +61,10 @@ This document is my journal about this project. I am writing all my thoughts tri
   - I did also play notebook and integrated to be played in google colab. Read the readme.
 
 - Ok! now I got an idea when I was cheking [this](<https://en.wikipedia.org/wiki/Hangman_(game)>) page there was saying about the recourence of the english letters. So I thought maybe I can experiment the histogram of the letters in the word-list data that I have created.
+
   - Yes the histogram is ready. as expected a e i words are very popular but suprasinglly oöuü is way below the list. also l is the 3rd most use letter. Very interestinig. Should I implement my standart agent just in porder with the letters appeared here?
+
+  #### 02.08.2021
+
+  - Let's begin to construct the metrics.
+    - config parameter has been added to environment
