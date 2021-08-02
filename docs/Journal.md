@@ -68,3 +68,7 @@ This document is my journal about this project. I am writing all my thoughts tri
 
   - Let's begin to construct the metrics.
     - config parameter has been added to environment
+    - My doughter poped up. will be back...
+    - I am back...
+    - for the first time I have removed the environment from the AI. That's why I need a seperate class to automate the game rounds and multiple games among with paramitized different agent types.
+      - ok I have created initial ai game environment using the environment class. However I am having trouble to cross reference classes. I think I need to put all command calls ini the root and all other cllass inito modules/folders.
