@@ -72,3 +72,5 @@ This document is my journal about this project. I am writing all my thoughts tri
     - I am back...
     - for the first time I have removed the environment from the AI. That's why I need a seperate class to automate the game rounds and multiple games among with paramitized different agent types.
       - ok I have created initial ai game environment using the environment class. However I am having trouble to cross reference classes. I think I need to put all command calls ini the root and all other cllass inito modules/folders.
+        - The new module diir structure is worling fine but it is not working good in notebooks so I aplied one of the solutions [here](https://stackoverflow.com/questions/34478398/import-local-function-from-a-module-housed-in-another-directory-with-relative-im)
+        - Weirdlly when execute from the command the data dir accaesble but it is not accessible from the notebook executions. I have removed direct module calls from the global notebook. But I will need to solve this propblem if I want to discover more via notebook.
