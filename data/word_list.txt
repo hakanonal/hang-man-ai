@@ -2999,7 +2999,7 @@ Amerikanca
 Amerikancı
 Amerikancılık
 Amerikan elması
-Amerikan İngilizcesi
+Amerikan ingilizcesi
 Amerikanist
 Amerikanizm
 Amerikan salatası
@@ -30672,7 +30672,6 @@ hazret
 Hazro 
 hazzetme
 hazzetmek
-ha  ha 
 he
 He
 heba
@@ -30820,7 +30819,6 @@ hemşirezade
 hemze
 hemzemin
 hemzemin geçit
-hem  hem 
 hendek
 Hendek
 hendese
@@ -32024,10 +32022,10 @@ iblisçilik
 ibne
 ibnelik
 ibra
-İbradı 
+ibradı 
 ibraname
-İbrani
-İbranice
+ibrani
+ibranice
 ibraz
 ibre
 ibret
@@ -32340,7 +32338,7 @@ ideolog
 ideoloji
 ideolojik
 idil
-İdil
+idil
 idiyopati
 idman
 idmancı
@@ -32357,8 +32355,8 @@ idrar kesesi
 idrar torbası
 idrar yolu
 idrar zoru
-İdris ağacı
-İdris otu
+idris ağacı
+idris otu
 ifa
 ifade
 ifadelendirme
@@ -32418,7 +32416,7 @@ iğcilik
 iğde
 iğdegiller
 iğdemir
-İğdir
+iğdir
 iğdiş
 iğfal
 iğ iplik
@@ -32481,7 +32479,7 @@ ihdas
 ihkakıhak
 ihlal
 ihlas
-İhlas
+ihlas
 ihlaslı
 ihlaslıca
 ihlaslılık
@@ -32502,9 +32500,9 @@ ihrakiye
 ihram
 ihraz
 ihsan
-İhsangazi 
+ihsangazi 
 ihsanıhümayun
-İhsaniye 
+ihsaniye 
 ihsas
 ihtar
 ihtarname
@@ -32666,7 +32664,7 @@ ikili yatak
 ikinci
 ikinci ayak
 ikinci bahar
-İkinci Çağ
+ikinci Çağ
 ikinci el
 ikinci ferik
 ikinci kaptan
@@ -32675,7 +32673,7 @@ ikincil grup
 ikincilik
 ikinci sınıf
 ikinci yarı
-İkinci Zaman
+ikinci Zaman
 ikinci zar
 ikindi
 ikindi ezanı
@@ -32715,12 +32713,12 @@ ikiz
 ikiz anlam
 ikiz anlamlı
 ikiz anlamlılık
-İkizce 
-İkizdere 
+ikizce 
+ikizdere 
 ikizkenar
 ikizkenar üçgen
 ikizkenar yamuk
-İkizler
+ikizler
 ikizleşme
 ikizli
 ikizlik
@@ -32790,10 +32788,10 @@ ilaçlık
 ilaçsız
 ilaçsızlık
 ilah
-İlah
+ilah
 ilahe
 ilahi 
-İlahi
+ilahi
 ilahiyat
 ilahiyatçı
 ilahiyatçılık
@@ -32923,7 +32921,7 @@ ilham kaynağı
 ilham perisi
 ilhan
 ilhanlık
-İliç 
+iliç 
 ilik
 ilikçi
 ilikçilik
@@ -32988,14 +32986,14 @@ iliştirme
 iliştirmek
 ilk
 ilk adım
-İlkadım
+ilkadım
 ilk ağızda
 ilk ağızdan
 ilkah
 ilkbahar
 ilkbahar noktası
 ilk bakışta
-İlk Çağ
+ilk Çağ
 ilk çeyrek
 ilk devre
 ilk dördün
@@ -33124,7 +33122,7 @@ imamkayığı
 imamlık
 imam nikahı
 imam nikahlı
-İmamoğlu 
+imamoğlu 
 imamsuyu
 iman
 imaniye
@@ -33192,7 +33190,7 @@ imparatorluk
 imparator otu
 implant
 imrahor
-İmranlı 
+imranlı 
 imren
 imrence
 imrendirme
@@ -33358,7 +33356,7 @@ incerek
 ince saz
 ince ses
 ince sıva
-İncesu 
+incesu 
 ince tutkal
 ince ünlü
 ince yağ
@@ -33371,7 +33369,7 @@ incik
 incik boncuk
 incik kemiği
 incik yahnisi
-İncil
+incil
 incili
 inciniş
 incinme
@@ -33379,7 +33377,7 @@ incinmek
 incir
 incir kuşu
 incirlik
-İncirliova 
+incirliova 
 incirsi meyve
 inci taşı
 incitebilme
@@ -33447,11 +33445,11 @@ indüklemek
 indükleme makinesi
 inebilme
 inebilmek
-İnebolu 
+inebolu 
 inebolukütüğü
 ineç
-İnegöl 
-İnegöl köftesi
+inegöl 
+inegöl köftesi
 inek
 inekçi
 inekçilik
@@ -33477,14 +33475,14 @@ infiratçılık
 infisah
 informel
 informel eğitim
-İngiliz
-İngiliz anahtarı
-İngilizce
-İngiliz İngilizcesi
-İngiliz ipi
-İngiliz sicimi
-İngiliz siyaseti
-İngiliz tuzu
+ingiliz
+ingiliz anahtarı
+ingilizce
+ingiliz ingilizcesi
+ingiliz ipi
+ingiliz sicimi
+ingiliz siyaseti
+ingiliz tuzu
 ingin
 inginlik
 inha
@@ -33495,7 +33493,7 @@ inhimak
 inhina
 inhiraf
 inhisar
-İnhisar
+inhisar
 inhisarcı
 inhisarcılık
 inhitat
@@ -33553,7 +33551,7 @@ inorganik kimya
 inorganik öge
 inovasyon
 inovatif
-İnönü
+inönü
 insaf
 insaflı
 insaflıca
@@ -33742,7 +33740,7 @@ ipotek
 ipotekleme
 ipoteklemek
 ipotekli
-İpsala 
+ipsala 
 ipsi
 ipsiler
 ipsi solucanlar
@@ -33775,9 +33773,9 @@ irade yitimi
 iradımesel
 iradi
 iradiye
-İranist
-İranistik
-İranlı
+iranist
+iranistik
+iranlı
 irap
 irat
 irca
@@ -33826,7 +33824,7 @@ irkiltmek
 irkinti
 irkme
 irkmek
-İrlandalı
+irlandalı
 irmik
 irmik helvası
 ironi
@@ -33863,7 +33861,7 @@ irtikap
 irtisam
 irtişa
 is
-İsa
+isa
 isabet
 isabetli
 isabetlilik
@@ -33871,11 +33869,11 @@ isabetsiz
 isabetsizlik
 isal
 isale
-İscehisar
-İsevi
-İsevilik
+iscehisar
+isevi
+isevilik
 isfendan
-İshak kuşu
+ishak kuşu
 ishal
 ishalli
 isilik
@@ -33923,9 +33921,9 @@ iskambil kağıdı
 iskan
 iskan belgesi
 iskandil
-İskandinav
-İskandinav dilleri
-İskandinavyalı
+iskandinav
+iskandinav dilleri
+iskandinavyalı
 iskarpela
 iskarpin
 iskarto
@@ -33937,15 +33935,15 @@ iskele kuşu
 iskelet
 iskelet mobilya
 iskemle
-İskenderun 
+iskenderun 
 iskerlet
 iskete
-İskilip
-İskitçe
-İskitler
-İskoç
-İskoçça
-İskoçya ipliği
+iskilip
+iskitçe
+iskitler
+iskoç
+iskoçça
+iskoçya ipliği
 iskonto
 iskontolu
 iskontosuz
@@ -33954,24 +33952,24 @@ iskorçina
 iskorpit
 iskorpitgiller
 iskota
-İslahiye 
-İslam
-İslamcı
-İslamcılık
-İslam gizemciliği
-İslam gizemcisi
-İslam hukuku
-İslami
-İslamiyet
-İslamlaşma
-İslamlaşmak
-İslamlaştırma
-İslamlaştırmak
-İslamlık
-İslav
-İslavca
-İslavist
-İslavistik
+islahiye 
+islam
+islamcı
+islamcılık
+islam gizemciliği
+islam gizemcisi
+islam hukuku
+islami
+islamiyet
+islamlaşma
+islamlaşmak
+islamlaştırma
+islamlaştırmak
+islamlık
+islav
+islavca
+islavist
+islavistik
 isleme
 islemek
 islenme
@@ -33980,7 +33978,7 @@ isli
 isli küf
 islim
 islim kebabı
-İsloven
+isloven
 ismen
 ismet
 ismetli
@@ -33993,14 +33991,14 @@ isnat grubu
 isot
 ispalya
 ispanya
-İspanyol
-İspanyolca
-İspanyol dansı
+ispanyol
+ispanyolca
+ispanyol dansı
 ispanyolet
 ispanyolet kilit
-İspanyol müziği
-İspanyol nezlesi
-İspanyol paça
+ispanyol müziği
+ispanyol nezlesi
+ispanyol paça
 ispari
 ispat
 ispati
@@ -34023,7 +34021,7 @@ ispermeçet balinası
 ispinoz
 ispinozgiller
 ispir
-İspir
+ispir
 ispiralya
 ispirto
 ispirtocu
@@ -34046,16 +34044,16 @@ ispritizma
 ispritizmacı
 ispritizmacılık
 israf
-İsrafil
-İsrailli
+israfil
+israilli
 istadya
-İstanbul
-İstanbul efendisi
+istanbul
+istanbul efendisi
 istanbulin
-İstanbul kekiği
-İstanbul lalesi
-İstanbullu
-İstanbulluluk
+istanbul kekiği
+istanbul lalesi
+istanbullu
+istanbulluluk
 istasyon
 istatistik
 istatistikçi
@@ -34185,7 +34183,7 @@ istika
 istikamet
 istikbal
 istiklal
-İstiklal Marşı 
+istiklal Marşı 
 istikra
 istikrah
 istikrar
@@ -34248,9 +34246,9 @@ istizan
 istop
 istralya
 istrongilos
-İsveççe
-İsveçli
-İsviçreli
+isveççe
+isveçli
+isviçreli
 isyan
 isyancı
 isyancılık
@@ -34500,8 +34498,8 @@ itaatsizce
 itaatsizlik
 ita emri
 italik
-İtalyan
-İtalyanca
+italyan
+italyanca
 itap
 itayağı
 itboğan
@@ -34669,7 +34667,7 @@ ivme
 ivmek
 ivmeölçer
 ivmeyazar
-İvrindi 
+ivrindi 
 iye
 iyelik
 iyelik eki
@@ -34680,7 +34678,7 @@ iyicene
 iyicil
 iyicillik
 iyiden iyiye
-İyidere 
+iyidere 
 iyi gün
 iyi gün dostu
 iyi hal
@@ -34812,12 +34810,12 @@ izli mermi
 izmarit
 izmaritgiller
 izmihlal
-İzmir
-İzmir köftesi
-İzmirli
-İzmirlilik
-İzmit
-İznik
+izmir
+izmir köftesi
+izmirli
+izmirlilik
+izmit
+iznik
 izobar
 izobar eğrisi
 izohips
@@ -49947,11 +49945,6 @@ nazlılık
 nazmen
 nazmetme
 nazmetmek
-Nb
-Nd
-ne
-ne
-Ne
 ne ala
 nebat
 nebatat
@@ -50270,7 +50263,6 @@ nezleli
 nezle otu
 nezretme
 nezretmek
-ne  ne 
 nısfınnehar
 nısfiye
 nısıf
@@ -73384,7 +73376,6 @@ yaz saati
 yaz sömestiri
 yaz uykusu
 yaz yağmuru
-ya  ya 
 Yb
 ye
 yedek

@@ -4,8 +4,10 @@ class agentSTD:
 
     def __init__(self,config):
         self.config = config
-        self.all_letters = ['abcçdefgğhıijklmnoöprsştuüvyz']
+        self.reset()
 
+    def reset(self):
+        self.all_letters = ['a','b','c','ç','d','e','f','g','ğ','h','ı','i','j','k','l','m','n','o','ö','p','r','s','ş','t','u','ü','v','y','z']
 
     def get_next_action(self,state):
         while self.all_letters[0] in state['guessed_letters']:

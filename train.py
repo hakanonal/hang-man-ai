@@ -6,13 +6,14 @@ def train():
         'exploration_rate':0.9,
         'decay_factor':0.99,
         'learning_rate':0.001,
-        'episode':10000,
+        'episode':100000,
         'debug' : 0,
         'max_try' : 29,
+        'agent': 'agentSTD',
     }
 
-    import os
-    os.environ['WANDB_MODE'] = 'dryrun'
+    #import os
+    #os.environ['WANDB_MODE'] = 'dryrun'
 
     r = run(config=config)
 

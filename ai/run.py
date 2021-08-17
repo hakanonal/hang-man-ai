@@ -3,6 +3,9 @@ from game.environment import GameResult
 import wandb
 from .agentStd import agentSTD
 
+agentmap = {
+    'agentSTD': agentSTD,
+}
 
 class run:
     def __init__(self, config=None):
@@ -15,7 +18,7 @@ class run:
         self.metrics = {
             'tot_try' : 0,
         }
-        self.agent = agentSTD(self.config) #TODO: this class selection must be paramitized
+        self.agent = agentmap[self.config['agent']](self.config)
         self.environment = environment(self.config)
 
 
@@ -23,6 +26,7 @@ class run:
         for episode in range(1,self.config['episode']+1):
             #Begin Game
             self.environment.reset()
+            self.agent.reset()
 
             #Playing
             while self.environment.state['result'] == GameResult.Playing:

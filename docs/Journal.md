@@ -74,3 +74,9 @@ This document is my journal about this project. I am writing all my thoughts tri
       - ok I have created initial ai game environment using the environment class. However I am having trouble to cross reference classes. I think I need to put all command calls ini the root and all other cllass inito modules/folders.
         - The new module diir structure is worling fine but it is not working good in notebooks so I aplied one of the solutions [here](https://stackoverflow.com/questions/34478398/import-local-function-from-a-module-housed-in-another-directory-with-relative-im)
         - Weirdlly when execute from the command the data dir accaesble but it is not accessible from the notebook executions. I have removed direct module calls from the global notebook. But I will need to solve this propblem if I want to discover more via notebook.
+
+#### 17.08.2021
+
+- Today I want to continue where I left off. I have 1 hour or something so.
+  - I needed to spent some time to remember the code.
+  - Great! I have fixed several bugs. I have started to observe the metrics in wandb her is the [link](https://wandb.ai/hakanonal/hang-man-ai)
