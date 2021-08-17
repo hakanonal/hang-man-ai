@@ -9,7 +9,7 @@ def train():
         'episode':100000,
         'debug' : 0,
         'max_try' : 29,
-        'agent': 'agentSTD',
+        'agent': 'agentFREQ',
     }
 
     #import os

@@ -80,3 +80,6 @@ This document is my journal about this project. I am writing all my thoughts tri
 - Today I want to continue where I left off. I have 1 hour or something so.
   - I needed to spent some time to remember the code.
   - Great! I have fixed several bugs. I have started to observe the metrics in wandb her is the [link](https://wandb.ai/hakanonal/hang-man-ai)
+  - Yes I have added one more agent. Instead of guessing letters alphabeticllay everytime, The new agent agentFREQ guessies the letters in the order of occerance in the word list data. So the immediate result is improved dramaticlly. it was 17,8 now it is close to 13,5
+  - by the way the main metric is avarage try. we are tyring to dcrease it. If we manage to create an agent that avg_try metric is below 10 then in avarage that agent will be able to win normal games.
+  - So this two agent is not good enough.

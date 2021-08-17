@@ -1,10 +1,12 @@
 from game.environment import environment
 from game.environment import GameResult
 import wandb
-from .agentStd import agentSTD
+from .agentSTD import agentSTD
+from .agentFREQ import agentFREQ
 
 agentmap = {
     'agentSTD': agentSTD,
+    'agentFREQ': agentFREQ,
 }
 
 class run:
