@@ -1,6 +1,6 @@
 from ai.run import run
 
-def train():
+def tournament():
     config = {
         'discount': 0.95,
         'exploration_rate':0.9,
@@ -21,4 +21,4 @@ def train():
 
 
 if __name__ == "__main__":
-    train()
+    tournament()

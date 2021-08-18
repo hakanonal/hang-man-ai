@@ -88,4 +88,5 @@ This document is my journal about this project. I am writing all my thoughts tri
 #### 18.08.2021
 
 - Ok let's start with some script file name changes.
-  -
+  - changed the main script name to play
+  - whatt about the name tournament instead of train.
