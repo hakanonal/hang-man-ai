@@ -96,3 +96,9 @@ This document is my journal about this project. I am writing all my thoughts tri
     - However, what if we tweak frequency agent first into vowels than others according to frequency.
       - well the frequency agent seems to be aproximatelly 1 try better on avarage.
     - so if we go back to original stragety we may use the frequency order as well as memorizing word list. Since when we play with my dpughter we search thorugh our brain what words are known by us and try them with the board.
+      - what about the agentMEM. changed it to agentMEMFREQ siince I think I will create couple of more agents uses memory.
+      - what if this agent gets the length of the board and norrows down the options from the memory and extracts the frequancy of the letters of the norrowed list and guesses that new order?
+        - I have done the norrowing down however I am not sure how it is going to behave if hte word to guess has space in it? It should not make any difference.
+        - Let's give it a try... Well! it just a tiny little bit better than plain frequency agent. However it is much more slower. as expected..
+      - well one more addtion to this agent may be on each guess it should try to match with its narrowed list? However would it make any difference? on each guess it is going to noarrowed the list even more. It would be definatelly much more slower.
+        -

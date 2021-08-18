@@ -4,9 +4,8 @@ class agentSTD:
 
     def __init__(self,config):
         self.config = config
-        self.reset()
 
-    def reset(self):
+    def reset(self,_):
         self.all_letters = ['a','b','c','ç','d','e','f','g','ğ','h','ı','i','j','k','l','m','n','o','ö','p','r','s','ş','t','u','ü','v','y','z']
 
     def get_next_action(self,state):

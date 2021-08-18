@@ -5,12 +5,14 @@ import wandb
 from .agentSTD import agentSTD
 from .agentFREQ import agentFREQ
 from .agentFVOWL import agentFVOWL
+from .agentMEMFREQ import agentMEMFREQ
 
 
 agentmap = {
     'agentSTD': agentSTD,
     'agentFREQ': agentFREQ,
     'agentFVOWL': agentFVOWL,
+    'agentMEMFREQ': agentMEMFREQ,
 }
 
 class run:
@@ -32,7 +34,7 @@ class run:
         for episode in range(1,self.config['episode']+1):
             #Begin Game
             self.environment.reset()
-            self.agent.reset()
+            self.agent.reset(self.environment.state)
 
             #Playing
             while self.environment.state['result'] == GameResult.Playing:
