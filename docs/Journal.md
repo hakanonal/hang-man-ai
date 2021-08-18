@@ -104,3 +104,5 @@ This document is my journal about this project. I am writing all my thoughts tri
         - I think this strategy is the best startegy however there is some bug I need to fix. It is fixed
         - Well! this agent outperforms all other agents. in ~2600 steps on avaarage it knows the workd on 2,6 tries on avarage. This agent has still room to improve for exmample. It norrows down the words according the letters on the board but for example it does not norrow down accordiing to the previous guessed letters if they are apeeared or not. However, if I apply this logic it will bring more performance issue which would be needless hence the current performance is way better.
 - Well It seems that I need additional metrics like max try min try and speed.
+  - I do not how to implement speed sinice every environment that has executed the script will measure different speed. this seems to be a little bit more research
+- Will continue on implementing new metrics and renew the all runs swith sweep.
