@@ -9,7 +9,8 @@ def tournament():
         'episode':100000,
         'debug' : 0,
         'max_try' : 29,
-        'agent': 'agentMEMFREQ',
+        'agent': 'agentMEMFREQv2',
+        'word_to_guess' : False,
     }
 
     #import os

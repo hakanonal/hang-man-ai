@@ -101,4 +101,6 @@ This document is my journal about this project. I am writing all my thoughts tri
         - I have done the norrowing down however I am not sure how it is going to behave if hte word to guess has space in it? It should not make any difference.
         - Let's give it a try... Well! it just a tiny little bit better than plain frequency agent. However it is much more slower. as expected..
       - well one more addtion to this agent may be on each guess it should try to match with its narrowed list? However would it make any difference? on each guess it is going to noarrowed the list even more. It would be definatelly much more slower.
-        -
+        - I think this strategy is the best startegy however there is some bug I need to fix. It is fixed
+        - Well! this agent outperforms all other agents. in ~2600 steps on avaarage it knows the workd on 2,6 tries on avarage. This agent has still room to improve for exmample. It norrows down the words according the letters on the board but for example it does not norrow down accordiing to the previous guessed letters if they are apeeared or not. However, if I apply this logic it will bring more performance issue which would be needless hence the current performance is way better.
+- Well It seems that I need additional metrics like max try min try and speed.

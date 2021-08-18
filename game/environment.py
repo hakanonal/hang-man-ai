@@ -12,11 +12,14 @@ class environment:
         self.config = config
         self.reset()
 
-    def reset(self):
-        with open('data/word_list.txt') as f:
-            lines = [line.rstrip() for line in f]
-        r = random.randrange(len(lines))
-        word_to_guess = lines[r].lower()
+    def reset(self,_word_to_guess = False):
+        if _word_to_guess:
+            word_to_guess = _word_to_guess
+        else:            
+            with open('data/word_list.txt') as f:
+                lines = [line.rstrip() for line in f]
+            r = random.randrange(len(lines))
+            word_to_guess = lines[r].lower()
         letters_to_guess = list(word_to_guess)
         self.state = {
             'word_to_guess' : word_to_guess,

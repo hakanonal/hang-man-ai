@@ -6,6 +6,7 @@ from .agentSTD import agentSTD
 from .agentFREQ import agentFREQ
 from .agentFVOWL import agentFVOWL
 from .agentMEMFREQ import agentMEMFREQ
+from .agentMEMFREQv2 import agentMEMFREQv2
 
 
 agentmap = {
@@ -13,6 +14,7 @@ agentmap = {
     'agentFREQ': agentFREQ,
     'agentFVOWL': agentFVOWL,
     'agentMEMFREQ': agentMEMFREQ,
+    'agentMEMFREQv2': agentMEMFREQv2,
 }
 
 class run:
@@ -33,7 +35,7 @@ class run:
     def start(self):
         for episode in range(1,self.config['episode']+1):
             #Begin Game
-            self.environment.reset()
+            self.environment.reset(self.config['word_to_guess'])
             self.agent.reset(self.environment.state)
 
             #Playing
