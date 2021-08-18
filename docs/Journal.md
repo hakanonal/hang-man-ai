@@ -90,3 +90,9 @@ This document is my journal about this project. I am writing all my thoughts tri
 - Ok let's start with some script file name changes.
   - changed the main script name to play
   - whatt about the name tournament instead of train.
+  - and we are done with that!
+- I want to create several more agents that may be more cllever that we have created so far.
+  - Well! the strategy we follow with my doughter was, first we were guessing the vowels until we are convinced that there should be no more vowels (note that we do not have to guess all vowels since every cylable has at least one vowel we educated guess that there is no omre vowel to guess to save our try count.)
+    - However, what if we tweak frequency agent first into vowels than others according to frequency.
+      - well the frequency agent seems to be aproximatelly 1 try better on avarage.
+    - so if we go back to original stragety we may use the frequency order as well as memorizing word list. Since when we play with my dpughter we search thorugh our brain what words are known by us and try them with the board.

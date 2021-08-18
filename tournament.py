@@ -9,7 +9,7 @@ def tournament():
         'episode':100000,
         'debug' : 0,
         'max_try' : 29,
-        'agent': 'agentFREQ',
+        'agent': 'agentFVOWL',
     }
 
     #import os
