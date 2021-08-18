@@ -2,7 +2,7 @@
 from game.environment import environment
 from game.environment import GameResult
 
-def main():
+def play():
     e = environment()
 
     while True:
@@ -13,4 +13,4 @@ def main():
         e.play(c)
 
 if __name__ == "__main__":
-    main()
+    play()

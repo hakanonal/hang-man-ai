@@ -84,3 +84,8 @@ This document is my journal about this project. I am writing all my thoughts tri
   - by the way the main metric is avarage try. we are tyring to dcrease it. If we manage to create an agent that avg_try metric is below 10 then in avarage that agent will be able to win normal games.
   - So this two agent is not good enough.
 - I am thinking to change the train.py code's name. Because I will train the Noural agent seperatelly. So this is the entry code that plays with the given agent. continue on this topic next time.
+
+#### 18.08.2021
+
+- Ok let's start with some script file name changes.
+  -

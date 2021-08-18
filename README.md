@@ -13,7 +13,7 @@ Again, as always
 ## To Play
 
 ```
-python main.py
+python play.py
 ```
 
 or
