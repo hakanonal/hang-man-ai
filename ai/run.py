@@ -27,6 +27,8 @@ class run:
             self.config = config
         self.metrics = {
             'tot_try' : 0,
+            'max_try' : 0,
+            'min_try' : self.config['max_try'],
         }
         self.agent = agentmap[self.config['agent']](self.config)
         self.environment = environment(self.config)
@@ -47,4 +49,6 @@ class run:
             #Sending Metrics
             self.metrics['tot_try'] += self.environment.state['try']
             self.metrics['avg_try'] = self.metrics['tot_try'] / episode
+            self.metrics['max_try'] = max(self.environment.state['try'],self.metrics['max_try'])
+            self.metrics['min_try'] = min(self.environment.state['try'],self.metrics['min_try'])
             wandb.log(self.metrics,step=episode)

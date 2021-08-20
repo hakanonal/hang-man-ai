@@ -1,0 +1,20 @@
+program: sweep.py
+method: bayes
+metric:
+  goal: minimize
+  name: avg_try
+parameters:
+  word_to_guess:
+    value: False
+  max_try:
+    value: 29
+  episode:
+    value: 10000
+  agent:
+    values:
+      - agentSTD
+      - agentFREQ
+      - agentFVOWL
+      - agentMEMFREQ
+      - agentMEMFREQv2
+    distribution: categorical

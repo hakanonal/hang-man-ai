@@ -106,3 +106,8 @@ This document is my journal about this project. I am writing all my thoughts tri
 - Well It seems that I need additional metrics like max try min try and speed.
   - I do not how to implement speed sinice every environment that has executed the script will measure different speed. this seems to be a little bit more research
 - Will continue on implementing new metrics and renew the all runs swith sweep.
+
+#### 20.08.2021
+
+- Hello! Let's get on with this new metrics and sweep.
+  - created the [sweep](https://wandb.ai/hakanonal/hang-man-ai/sweeps/v0l2e7i3) It is sweeping only different agents only.
