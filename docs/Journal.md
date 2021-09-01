@@ -111,3 +111,8 @@ This document is my journal about this project. I am writing all my thoughts tri
 
 - Hello! Let's get on with this new metrics and sweep.
   - created the [sweep](https://wandb.ai/hakanonal/hang-man-ai/sweeps/v0l2e7i3) It is sweeping only different agents only.
+
+#### 01.09.2021
+
+- Today I want to at least start to create an agent that has a regresion network.
+  - I am distracted though before begening the job I wanted to create a result report until now. [Here](https://wandb.ai/hakanonal/hang-man-ai/reports/Comparison-of-Non-Neural-Networkds--Vmlldzo5ODQ1NDA) it is
