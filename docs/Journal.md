@@ -115,4 +115,13 @@ This document is my journal about this project. I am writing all my thoughts tri
 #### 01.09.2021
 
 - Today I want to at least start to create an agent that has a regresion network.
-  - I am distracted though before begening the job I wanted to create a result report until now. [Here](https://wandb.ai/hakanonal/hang-man-ai/reports/Comparison-of-Non-Neural-Networkds--Vmlldzo5ODQ1NDA) it is
+  - I am distracted though before begening the job I wanted to create a result report until now. [Here](https://wandb.ai/hakanonal/hang-man-ai/reports/Comparison-of-Non-Neural-Networkds--Vmlldzo5ODQ1NDA) it is.
+  - So where were we?
+  - Now when first think of this kind of agent. It is going to be different from others, hence I will need to train them first. And the trained agent will be playing in tournament. Maybe I can train it on a notebook and then put them on tournament. However while training I am pretty sure that I will need to compare bunch of same agents. So I need to design that also. Let's begin to train one and then we can figure it out the rest later.
+    - I am thinking of to input the state of the board and spit out the hot encoded of all letters.
+
+#### 02.09.2021
+
+- Go on...
+  - readinig the last sentence...
+  - reading [this](https://www.tensorflow.org/tutorials/keras/regression?hl=en) article
