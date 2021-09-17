@@ -125,3 +125,29 @@ This document is my journal about this project. I am writing all my thoughts tri
 - Go on...
   - readinig the last sentence...
   - reading [this](https://www.tensorflow.org/tutorials/keras/regression?hl=en) article
+
+#### 17.09.2021
+
+- Another big break and we are here...
+
+  - Very good article. so what features can I extract from my data. I had thought to input the board but I am fuzzy about that right now. At least I need to find a way to represent the board as input of the network. output is pretty straight forward it is hot encoded of the alphabet. (I mean 29 nodes sigmoid)
+  - So the input features may be. Only brain storming...
+    - I have the length of the board
+    - number of try
+    - number of guessed letters? or
+      - number of unknown letters
+      - number of known letters
+    - It feels very exciting. Becuase non of these features has any signicance to guess the correct letters on minimum try, nevertheless that's beuty of the neural networks.
+    - I may write a function that decodes the game state
+  - I also need to design how am I going to train with the dictionary. since if there is the above features I need to play the game to obtain the try, known etc... features.
+    - Hmmm! this complicates the training process. do I have to train via reinforcement. I am not very interested to do that.
+    - Wait! maybe I can harvest the dictionary and create the all possible combinations of a word and its game state.
+      - Not that much easy though, It is easy to expand the length and known letters which the dataset will be expanded with number of words multiplied with length of each word. which I think tolerabile however, putting unknown letters would expanded it enormous.
+      - However what if I create a altenative game environment that the game is made for each word in dictionary (maybe it is done more than once) and in the game I can save each step as seperate datpoint for my dataset. I know it is going to take long time but I will only do this once and use that dataset to train. hmmm?? basiclly I am generating the list of different game states from the dictionary. I like that I will move on this.
+
+- Createing and agentRND which will guess the letters in random order in each game. reading [this](https://note.nkmk.me/en/python-random-shuffle/) article
+
+  - No surprise there it is the worst agent. Here is an example [run](https://wandb.ai/hakanonal/hang-man-ai/runs/sc9lc3cm) However I am going to use it to generate training dataset mentioned above. However would it be wise to generate states the plays of a random agent. Since it is going to be trained with best posiblle games to play It would be logical to use my best agent to accomplish this task.
+
+- I am having trouble to call the classes from the notebook. reading [this](https://newbedev.com/import-py-file-in-another-directory-in-jupyter-notebook) article says you can not do it.
+  - [this](https://www.py4u.net/discuss/159176) helped!

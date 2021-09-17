@@ -4,7 +4,7 @@ def tournament():
     config = {
         'episode':10000,
         'max_try' : 29,
-        'agent': 'agentFREQ',
+        'agent': 'agentRND',
         'word_to_guess' : False,
     }
 

@@ -5,6 +5,7 @@ import wandb
 from .agentSTD import agentSTD
 from .agentFREQ import agentFREQ
 from .agentFVOWL import agentFVOWL
+from .agentRND import agentRND
 from .agentMEMFREQ import agentMEMFREQ
 from .agentMEMFREQv2 import agentMEMFREQv2
 
@@ -13,6 +14,7 @@ agentmap = {
     'agentSTD': agentSTD,
     'agentFREQ': agentFREQ,
     'agentFVOWL': agentFVOWL,
+    'agentRND': agentRND,
     'agentMEMFREQ': agentMEMFREQ,
     'agentMEMFREQv2': agentMEMFREQv2,
 }
