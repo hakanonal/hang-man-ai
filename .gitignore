@@ -129,3 +129,4 @@ dmypy.json
 #misc
 .vscode/
 wandb
+data/states.csv

@@ -14,7 +14,7 @@ class environment:
 
     def reset(self,_word_to_guess = False):
         if _word_to_guess:
-            word_to_guess = _word_to_guess
+            word_to_guess = _word_to_guess.lower()
         else:            
             with open('data/word_list.txt') as f:
                 lines = [line.rstrip() for line in f]

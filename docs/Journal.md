@@ -150,4 +150,18 @@ This document is my journal about this project. I am writing all my thoughts tri
   - No surprise there it is the worst agent. Here is an example [run](https://wandb.ai/hakanonal/hang-man-ai/runs/sc9lc3cm) However I am going to use it to generate training dataset mentioned above. However would it be wise to generate states the plays of a random agent. Since it is going to be trained with best posiblle games to play It would be logical to use my best agent to accomplish this task.
 
 - I am having trouble to call the classes from the notebook. reading [this](https://newbedev.com/import-py-file-in-another-directory-in-jupyter-notebook) article says you can not do it.
+
   - [this](https://www.py4u.net/discuss/159176) helped!
+
+  #### 24.09.2021
+
+  - Going on from where we left off. I was having trouble calling classes from notebook...
+    - so my current side problem is my class calls the dictionary data however executing the script from notebook and console behaves different. I knew this problem, there are some notes above. now it is time to solve it once for all.
+      - I am considering to dynamclly change the current directory by explictlly calling system commands. [this](https://stackoverflow.com/questions/15680463/change-ipython-jupyter-notebook-working-directory) hepled
+      - It seems that it is not possible to dynamiclly get the curent path of the working notebook. explained [here](https://github.com/ipython/ipython/issues/10123)
+      - So I have solved via documentation. You need to execute first cell only once.
+    - So I am playing bunch of games, what would be my traing data file format?
+      - well I have figure it out a format. I amplaning to anaylze it in [bigML](https://bigml.com)
+    - So generation seems to be working fine. However I may need to execute in a server. Because it is taking long time.
+      - I have executed for decent amount of time. I had to interrupt it. I came up only to letter ı. (we are going on alphabetically.) so - I will put it in server.
+    - the states.csv is pretty big. I gave up to put it in github. So you may need to execute for your self.
