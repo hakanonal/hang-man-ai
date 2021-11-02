@@ -165,3 +165,12 @@ This document is my journal about this project. I am writing all my thoughts tri
     - So generation seems to be working fine. However I may need to execute in a server. Because it is taking long time.
       - I have executed for decent amount of time. I had to interrupt it. I came up only to letter ı. (we are going on alphabetically.) so - I will put it in server.
     - the states.csv is pretty big. I gave up to put it in github. So you may need to execute for your self.
+
+#### 02.11.2021
+
+- Antoher huge break and here we are...
+  - reading and remembering where I had left off...
+- well eventhough I do not have complete list of states before putting this code to server and generate the full list, I will be able to analyze it in bigml? let's see...
+  - My limit for bigml is not enough. Eventhugh the file is not the full file. neverthless I will crop the file and try to do what I can.
+  - BigMl is helping a lot I am trying lot's different parameters without writing single line of code. determining the model parameters this way is much more convienent.
+  - Currentlly logistic regression and deep net models are not performing very good. guessing a is easy for both of them but others are not much of a difference.acuracy, precsion, recall is below %40 for both of them. So I have started an OptiML run which I bealive it is going to take long time.
