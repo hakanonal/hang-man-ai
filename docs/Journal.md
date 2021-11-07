@@ -174,3 +174,18 @@ This document is my journal about this project. I am writing all my thoughts tri
   - My limit for bigml is not enough. Eventhugh the file is not the full file. neverthless I will crop the file and try to do what I can.
   - BigMl is helping a lot I am trying lot's different parameters without writing single line of code. determining the model parameters this way is much more convienent.
   - Currentlly logistic regression and deep net models are not performing very good. guessing a is easy for both of them but others are not much of a difference.acuracy, precsion, recall is below %40 for both of them. So I have started an OptiML run which I bealive it is going to take long time.
+
+#### 03.11.2021
+
+- Continue on working bigml
+  - optiml gave some kind of a error.
+  - I am continuing to fiddle arround the app. I am trying to tokenize the board and guessed words better. It seems that they have more relevance among others.
+  - I have tried dicision tree, deepnet and logistic regression models. they are giving all similar results which are performing very bad except guessing the letter a.
+  - I have noticed few problems with my dataset,
+    - the board state is being shown after the action is played. Should I exclude the action to play from the board? I think yes. this brings that I need to modify my generator program. I very happy that I have found this problem at this stage.
+    - I want to also use the topic clasifer however it requeres text field as input. should I remove commos from the gurssed_letters and board and use space instead of it to properlly tokenize it? well I can not get use of topic modeling in this case. As far as I understood there is no recurent neteorks in bigml??
+  - By the way when I set the guessed letters and board fields as "items", the performance got above %60. still not enough though
+  - Another by the way yersterday I was wathich video and bumped to a ad called dataiku. It seems an app that is very similar to bigml. I fidileing with it now.
+    - Well this app looks great, you can do any kind of analyze and manupulation of data and also train and evalute models all from a dashboard without righting a single line of code. And it is also fairlly easy to use. I love it. I may use this tool inthe future also. [https://www.dataiku.com](https://www.dataiku.com)
+    - I have started a trial account with 14 day period.
+    - You can also use in premse environment which I will also consider to use it in the future.
