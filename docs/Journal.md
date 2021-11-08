@@ -217,3 +217,5 @@ This document is my journal about this project. I am writing all my thoughts tri
       - since the requirements should be indepentdent from the OS It should not goes into requirements.txt, So they are suggesting to include only top level requirements. [here](https://stackoverflow.com/questions/46816430/how-to-list-freeze-only-the-python-modules-imported-required-by-my-project)
       - installing pipdeptree
         - However pyobjc is installed in top level.
+        - well I do not know how that module is got there. I have uninstall it. assuming that it does not require in my project if it does I will look it up later.
+    - so my training data generation notebook started to run on my local ml computer I will leave it as it is. Probally It will take hours to work.
