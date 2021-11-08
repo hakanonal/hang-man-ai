@@ -201,5 +201,13 @@ This document is my journal about this project. I am writing all my thoughts tri
   - and of course before all of that I need to generate the full training data in a server.
   - So I am replaning my project board.
 
-- Fix [bug](https://github.com/hakanonal/hang-man-ai/projects/1#card-72111459)
-  -
+- Fix [bug](https://github.com/hakanonal/hang-man-ai/projects/1#card-72111459).
+
+  - It is done!
+
+- Now I will deploy it to the server
+  - I need to remember How I was doing that...
+  - I have remembered my deployment advantures from my previous projetcs [here](https://github.com/hakanonal/mastermind/blob/main/docs/journal.md#13122020)
+  - Ok I have remembered a lot. However I have relized that I have written my training data generation code in to notebook. Is there a way to execute code in notebook unattended.
+    - [This](https://towardsdatascience.com/keep-jupyter-notebook-running-even-after-browser-is-closed-9a1937b7c615) has some decent different methods to use. I will try runipy or nbconvert methods. yep! It seems to be working great.
+  - So to create server? where? how?
