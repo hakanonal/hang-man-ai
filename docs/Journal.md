@@ -211,3 +211,9 @@ This document is my journal about this project. I am writing all my thoughts tri
   - Ok I have remembered a lot. However I have relized that I have written my training data generation code in to notebook. Is there a way to execute code in notebook unattended.
     - [This](https://towardsdatascience.com/keep-jupyter-notebook-running-even-after-browser-is-closed-9a1937b7c615) has some decent different methods to use. I will try runipy or nbconvert methods. yep! It seems to be working great.
   - So to create server? where? how?
+    - I have decided to move with my jump computer.
+    - Some doc about ubuntu [netplan](https://netplan.io)
+    - a weird error while installing the requirements via pip "PyObjC requires macOS to build"
+      - since the requirements should be indepentdent from the OS It should not goes into requirements.txt, So they are suggesting to include only top level requirements. [here](https://stackoverflow.com/questions/46816430/how-to-list-freeze-only-the-python-modules-imported-required-by-my-project)
+      - installing pipdeptree
+        - However pyobjc is installed in top level.
