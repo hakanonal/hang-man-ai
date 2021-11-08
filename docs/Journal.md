@@ -189,3 +189,17 @@ This document is my journal about this project. I am writing all my thoughts tri
     - Well this app looks great, you can do any kind of analyze and manupulation of data and also train and evalute models all from a dashboard without righting a single line of code. And it is also fairlly easy to use. I love it. I may use this tool inthe future also. [https://www.dataiku.com](https://www.dataiku.com)
     - I have started a trial account with 14 day period.
     - You can also use in premse environment which I will also consider to use it in the future.
+
+#### 08.11.2021
+
+- So we have a good sense of how we can quickly trainf varius AI algorithms on our data. For now we know:
+
+  - I am wondering if full training data would do difference? because in our sample data class "a" has the most results. other results may make some difference.
+  - In order to game predict right we need to remove the predicted class from the board. The board should be in a state that the prediction is not played yet.
+  - bigml will not help us in full data. it is too big. dataiku is very helpful I will continue with that.
+  - dataiku can be run in local but when the data is big I am assuming it is not going to help either. I need to install it in a server.
+  - and of course before all of that I need to generate the full training data in a server.
+  - So I am replaning my project board.
+
+- Fix [bug](https://github.com/hakanonal/hang-man-ai/projects/1#card-72111459)
+  -
