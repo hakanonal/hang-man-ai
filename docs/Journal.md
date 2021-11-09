@@ -219,3 +219,14 @@ This document is my journal about this project. I am writing all my thoughts tri
         - However pyobjc is installed in top level.
         - well I do not know how that module is got there. I have uninstall it. assuming that it does not require in my project if it does I will look it up later.
     - so my training data generation notebook started to run on my local ml computer I will leave it as it is. Probally It will take hours to work.
+      - It is finished
+    - I have also installed dataiku to my local jump computer. and started a new logistic regression on the full dataset.
+
+#### 09.11.2021
+
+- Now the tricky part is begening. The quick result for a regression is almost same with the previous sessions. a is signifcantlly performing good however other calsses are very poor.
+  - I am changing some parameters and fidilleing arround with it.
+  - Love this app! ı have created a NN analyses which I can freely configure the model and I do not have to read and feed it iinto model. And the results are being showed in detail. It also seems that I can run these trainings in GPU. which is seems to be quite straight forward.
+  - However I have lack of ability to create a proper model for this dataset. I need to switch my mind from coder to data analiyst for this task.
+  - Besides dataiku free version does not allow me to export the trained model out so that I can integrate it to my app. It somehow serves it in from the dss itself but it also requires to pay for the licence. However whey I dig down a little bit [dss_data_path]/analysis-data/HANGMANAI/aTuarmer/2Kur8F7X/sessions/s3/pp1/m1 I found the keras model file here maybe I can use that file on my aplication?
+    - well I did not figure out the input but it seems to be usable. at least the program did not get eror. In theory if I get the right version of keras and tensorflow It will do great.
