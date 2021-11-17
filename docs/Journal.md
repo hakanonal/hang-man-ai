@@ -230,3 +230,13 @@ This document is my journal about this project. I am writing all my thoughts tri
   - However I have lack of ability to create a proper model for this dataset. I need to switch my mind from coder to data analiyst for this task.
   - Besides dataiku free version does not allow me to export the trained model out so that I can integrate it to my app. It somehow serves it in from the dss itself but it also requires to pay for the licence. However whey I dig down a little bit [dss_data_path]/analysis-data/HANGMANAI/aTuarmer/2Kur8F7X/sessions/s3/pp1/m1 I found the keras model file here maybe I can use that file on my aplication?
     - well I did not figure out the input but it seems to be usable. at least the program did not get eror. In theory if I get the right version of keras and tensorflow It will do great.
+
+#### 17.11.2021
+
+- Passing days I have spent some time to re-activate my local training computer with GPU. dataiku did not properlly worked with GPU on this machine but the tool itself is still good tool to explore different models.
+- I have spent some time with dataiku did some data transformation and analysis. and re-trained the data with logisticregression. To summirize:
+  - the data is not corolated, it is sctared too much, logistic regresision is defnitelly not proper way to handle
+  - the class a is being predicted with very high accuracy because of the due to the very high repition of the class a.
+  - However I still want to get that model and put into my game so that we will see how it performing badlly.
+    - To get the model out I will export it to notebook and modify the notebook to save the trained model to file using [this](https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/) article.
+  - After that I will try to explore dataiku more to build a some kind of recurrent network. [this](https://github.com/hakanonal/hang-man-ai/projects/1#card-65713912) card
