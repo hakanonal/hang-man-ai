@@ -240,3 +240,8 @@ This document is my journal about this project. I am writing all my thoughts tri
   - However I still want to get that model and put into my game so that we will see how it performing badlly.
     - To get the model out I will export it to notebook and modify the notebook to save the trained model to file using [this](https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/) article.
   - After that I will try to explore dataiku more to build a some kind of recurrent network. [this](https://github.com/hakanonal/hang-man-ai/projects/1#card-65713912) card
+
+
+#### 24.11.2021
+
+- Let's train that thing outside of the dataiku
