@@ -8,6 +8,7 @@ from .agentFVOWL import agentFVOWL
 from .agentRND import agentRND
 from .agentMEMFREQ import agentMEMFREQ
 from .agentMEMFREQv2 import agentMEMFREQv2
+from .agentLOGREG import agentLOGREG
 
 
 agentmap = {
@@ -17,6 +18,7 @@ agentmap = {
     'agentRND': agentRND,
     'agentMEMFREQ': agentMEMFREQ,
     'agentMEMFREQv2': agentMEMFREQv2,
+    'agentLOGREG': agentLOGREG,
 }
 
 class run:

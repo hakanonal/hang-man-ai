@@ -245,3 +245,14 @@ This document is my journal about this project. I am writing all my thoughts tri
 #### 24.11.2021
 
 - Let's train that thing outside of the dataiku
+
+#### 10.12.2021
+
+- Well I did that without any logging with [this](discovery/regression_train.ipynb) notebook.
+  - It has performed very very poorly of course, but that is not important though. We already now that it was going to behave like that.
+- So let's use this model to our game and see the badness level :)
+  - Whie using the model to predict a game board I have come accross that I need to decode the board in to float numbers. When I look it into deeply how did I during training, I took the board and guessed words strings as categorial. So I will re-train the model with marking the features as text features as see the results.
+    - Well when I moved the features to text, the model did not except them as string. It wants float of course, but the code that I have copied from (dataiku) does not do any process for text features. Because it also treat them as categorial, I will try it to define it as text and create a seperate notebook inseide dataiku and see how it is going to convert text into float.
+      - Well it does not seem to be another way by using logistic regression.
+- I am back to training phase, I am going to seperate the raay values as seperate coluns and respresent them as 1 or 0. It seems that there is no automatic way to do it with dataiku. However it allows me to write custom code there I will try that.
+

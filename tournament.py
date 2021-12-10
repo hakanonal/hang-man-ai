@@ -2,14 +2,14 @@ from ai.run import run
 
 def tournament():
     config = {
-        'episode':10000,
+        'episode':1,
         'max_try' : 29,
-        'agent': 'agentRND',
+        'agent': 'agentLOGREG',
         'word_to_guess' : False,
     }
 
-    #import os
-    #os.environ['WANDB_MODE'] = 'dryrun'
+    import os
+    os.environ['WANDB_MODE'] = 'dryrun'
 
     r = run(config=config)
 
